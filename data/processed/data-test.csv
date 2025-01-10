@@ -1,1 +1,1614 @@
-Sample Data
+,country,market_segment,previous_cancellations,booking_changes,deposit_type,days_in_waiting_list,customer_type,reserved_room_type,required_car_parking_spaces,total_of_special_requests,is_canceled
+51837,GBR,Online TA,1,0,No Deposit,0,Transient,A,0,0,1
+81557,FIN,Online TA,0,2,No Deposit,0,Transient-Party,B,0,0,0
+70856,CHL,Online TA,0,1,No Deposit,0,Transient-Party,A,0,0,0
+57870,DEU,Direct,0,1,No Deposit,0,Transient-Party,E,0,0,0
+21067,USA,Online TA,0,3,No Deposit,0,Transient-Party,D,0,1,0
+5556,SWE,Online TA,0,1,No Deposit,0,Transient,F,0,0,0
+25111,PRT,Online TA,1,1,No Deposit,0,Transient-Party,G,0,1,1
+11642,DEU,Direct,0,0,No Deposit,107,Transient-Party,E,0,1,0
+44973,AGO,Online TA,0,0,No Deposit,0,Transient,E,0,3,1
+14834,PRT,Online TA,0,2,No Deposit,0,Transient,F,1,2,0
+3243,PRT,Online TA,0,0,No Deposit,0,Contract,F,0,0,0
+299,GBR,Offline TA/TO,0,0,No Deposit,0,Contract,E,0,0,0
+24519,PRT,Direct,1,2,No Deposit,0,Transient,E,1,4,0
+46114,PRT,Offline TA/TO,0,7,No Deposit,0,Transient-Party,A,0,0,0
+1646,ITA,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+50082,ETH,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+59314,GBR,Online TA,0,1,No Deposit,0,Transient,D,0,4,0
+82485,USA,Direct,0,1,No Deposit,0,Transient,E,1,2,0
+55,PRT,Corporate,0,0,Non Refund,0,Transient-Party,E,0,0,1
+39821,PRT,Complementary,0,0,No Deposit,0,Transient,C,0,0,1
+77021,EST,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+3400,BRA,Online TA,0,0,No Deposit,0,Transient-Party,A,0,1,0
+30140,IRL,Online TA,0,0,No Deposit,0,Transient,G,0,2,1
+45152,USA,Offline TA/TO,0,0,No Deposit,0,Transient,E,0,0,1
+67215,PRT,Online TA,1,1,No Deposit,0,Transient,D,0,2,1
+8411,USA,Online TA,0,2,No Deposit,0,Transient,C,1,2,0
+75622,ISR,Online TA,0,0,No Deposit,0,Contract,D,0,2,0
+63597,PRT,Online TA,0,0,No Deposit,0,Transient,H,0,2,1
+1488,PRT,Offline TA/TO,0,0,Non Refund,91,Transient,A,0,0,1
+7551,MAR,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+19198,ITA,Online TA,0,0,No Deposit,0,Transient-Party,D,0,1,0
+18431,ROU,Online TA,0,1,No Deposit,0,Transient,D,0,0,0
+65295,NLD,Online TA,0,0,No Deposit,0,Transient,B,0,0,1
+30913,ITA,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+443,ZAF,Direct,0,0,No Deposit,0,Transient,F,0,2,1
+55817,GBR,Offline TA/TO,0,0,No Deposit,0,Contract,C,0,1,0
+5388,PRT,Online TA,0,1,No Deposit,0,Transient,A,1,0,0
+1392,PRT,Offline TA/TO,0,4,No Deposit,0,Transient-Party,A,0,0,0
+2053,SVN,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,0
+51581,NOR,Online TA,0,0,No Deposit,0,Transient,C,0,3,0
+11539,PRT,Offline TA/TO,0,0,No Deposit,0,Transient,E,0,1,1
+12042,ARG,Online TA,0,1,No Deposit,0,Transient-Party,C,0,0,0
+38247,BRA,Online TA,0,2,No Deposit,0,Transient,A,0,4,0
+36992,NOR,Online TA,0,2,No Deposit,0,Transient-Party,A,0,1,0
+74876,CHE,Offline TA/TO,0,0,No Deposit,0,Transient-Party,B,0,0,0
+32277,NLD,Online TA,0,1,No Deposit,0,Transient,F,0,3,0
+58708,SWE,Direct,0,3,No Deposit,0,Transient,E,1,0,0
+378,GBR,Direct,0,0,No Deposit,0,Transient,E,0,0,1
+1022,NLD,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+55699,SWE,Online TA,0,1,No Deposit,0,Transient,E,0,3,0
+67803,FRA,Offline TA/TO,0,1,No Deposit,0,Transient,C,0,1,0
+53433,PRT,Complementary,0,1,No Deposit,0,Transient,A,0,0,1
+68996,BRA,Online TA,0,1,No Deposit,0,Transient,G,0,2,0
+2275,PRT,Online TA,1,0,No Deposit,0,Transient,D,0,3,1
+77154,PRT,Direct,0,4,No Deposit,0,Transient,C,0,2,0
+44234,RUS,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+6834,ISR,Online TA,0,0,No Deposit,0,Transient,F,0,0,0
+5374,PRT,Direct,0,1,No Deposit,0,Transient,A,1,0,0
+25036,ESP,Groups,0,0,No Deposit,83,Transient-Party,A,0,0,0
+16355,FIN,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,1,0
+17825,BRA,Online TA,0,3,No Deposit,0,Transient,D,0,2,1
+68314,BRA,Direct,0,3,No Deposit,0,Transient,A,0,0,0
+47883,BEL,Groups,0,0,No Deposit,0,Transient,E,0,3,0
+78449,NOR,Online TA,0,0,No Deposit,0,Transient-Party,A,0,3,0
+6235,AUT,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+25945,ROU,Online TA,0,1,No Deposit,0,Transient,E,0,0,0
+8837,FRA,Online TA,0,1,No Deposit,0,Transient,F,0,0,0
+65542,DEU,Complementary,0,0,No Deposit,0,Transient,F,0,1,0
+4367,PRT,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+65999,PRT,Corporate,1,2,No Deposit,0,Transient,A,1,2,0
+6458,GBR,Online TA,0,0,No Deposit,0,Transient,H,0,1,1
+25460,LUX,Direct,0,2,No Deposit,0,Transient,D,0,0,0
+3041,SWE,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,0,0
+80531,PRT,Corporate,2,0,No Deposit,0,Transient-Party,A,0,1,1
+47876,CZE,Online TA,0,0,No Deposit,0,Transient,E,1,1,0
+2673,IRL,Online TA,0,0,No Deposit,0,Transient-Party,D,0,2,0
+36852,CZE,Offline TA/TO,0,2,No Deposit,63,Transient-Party,A,0,0,0
+69882,BEL,Direct,0,2,No Deposit,0,Transient,A,0,3,0
+22453,IRL,Online TA,0,1,No Deposit,0,Transient,D,0,2,0
+11526,MKD,Online TA,0,0,No Deposit,0,Transient-Party,A,0,1,1
+41660,CN,Online TA,0,1,No Deposit,0,Transient,D,1,1,0
+17381,ESP,Online TA,0,0,No Deposit,0,Transient,E,0,3,1
+80354,BEL,Online TA,0,0,No Deposit,0,Transient,G,0,0,0
+7250,FRA,Online TA,0,1,No Deposit,0,Transient,A,0,2,0
+60369,ARE,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+71862,ROU,Online TA,0,0,No Deposit,0,Transient-Party,D,1,1,0
+49768,DEU,Offline TA/TO,0,1,No Deposit,0,Transient-Party,D,1,1,0
+63699,NOR,Online TA,0,0,No Deposit,0,Transient-Party,D,0,1,0
+70890,ITA,Direct,0,1,No Deposit,0,Transient,D,0,1,0
+44364,FIN,Online TA,0,0,No Deposit,0,Transient,E,0,0,0
+50428,DZA,Online TA,0,2,No Deposit,0,Transient,A,0,1,0
+22626,DEU,Direct,0,1,No Deposit,0,Transient-Party,A,0,2,0
+796,POL,Groups,0,0,Non Refund,0,Transient,A,0,0,1
+81584,GBR,Offline TA/TO,0,0,No Deposit,0,Contract,A,1,0,0
+48714,CHN,Online TA,0,0,No Deposit,0,Transient,E,0,2,0
+78920,NLD,Online TA,0,0,No Deposit,0,Transient,C,0,2,1
+2395,NLD,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0,0
+30244,PRT,Online TA,0,2,No Deposit,0,Transient,A,1,2,0
+11108,FRA,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+4347,DEU,Direct,0,1,No Deposit,0,Transient,B,0,0,0
+27470,FRA,Groups,0,0,No Deposit,0,Transient-Party,E,0,0,0
+79071,AUS,Online TA,0,0,No Deposit,0,Transient-Party,D,0,0,0
+12150,ESP,Offline TA/TO,0,1,No Deposit,0,Transient-Party,F,1,1,0
+17447,PRT,Online TA,0,0,No Deposit,0,Transient,E,0,3,1
+31017,NLD,Online TA,0,0,No Deposit,0,Transient,H,0,0,1
+71440,GBR,Groups,0,1,No Deposit,64,Transient-Party,D,0,0,0
+444,PRT,Online TA,0,1,No Deposit,0,Transient-Party,A,1,0,0
+81351,JPN,Online TA,0,0,No Deposit,0,Group,F,0,0,0
+21451,USA,Direct,0,1,No Deposit,0,Transient,F,1,2,0
+1713,MOZ,Online TA,0,2,No Deposit,0,Transient,A,0,1,0
+24853,JPN,Online TA,0,0,No Deposit,0,Transient-Party,B,0,0,0
+63596,PRT,Direct,0,5,No Deposit,0,Transient,E,1,1,0
+7050,MEX,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+2937,VEN,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+33013,BRA,Online TA,0,0,No Deposit,0,Transient,F,0,3,1
+22497,CN,Online TA,0,0,No Deposit,0,Transient,B,0,0,1
+14037,BRA,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+1116,AGO,Direct,0,0,No Deposit,0,Transient,A,0,2,0
+12850,GEO,Online TA,0,2,No Deposit,0,Transient,C,0,0,0
+10569,PRT,Online TA,1,0,No Deposit,0,Transient-Party,A,0,2,1
+29101,PRT,Complementary,0,1,No Deposit,0,Transient,A,0,1,1
+33769,SWE,Online TA,0,0,No Deposit,0,Group,D,0,2,0
+55323,BEL,Direct,0,0,No Deposit,0,Transient,E,1,0,0
+16434,FRA,Online TA,0,2,No Deposit,0,Transient,D,0,0,0
+3194,GBR,Online TA,0,0,No Deposit,0,Transient,G,0,2,0
+30996,FRA,Online TA,0,1,No Deposit,0,Transient,A,0,3,1
+15143,PRT,Direct,1,0,No Deposit,0,Transient,E,1,4,0
+80357,POL,Direct,0,6,No Deposit,0,Transient,E,1,2,0
+203,GBR,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+20994,PRT,Online TA,0,0,No Deposit,0,Transient,P,0,0,1
+22568,CHE,Direct,0,2,No Deposit,0,Transient,E,0,1,1
+48004,NGA,Offline TA/TO,0,1,No Deposit,0,Transient,A,0,1,0
+26945,ESP,Online TA,0,1,No Deposit,0,Transient,F,0,0,0
+11781,ECU,Direct,0,0,No Deposit,0,Transient,A,1,0,0
+137,ITA,Online TA,0,2,No Deposit,0,Transient,A,0,0,0
+14142,NLD,Online TA,0,0,No Deposit,0,Contract,B,0,0,0
+51943,PRT,Direct,0,0,No Deposit,0,Transient-Party,G,0,0,0
+3898,ESP,Online TA,0,0,No Deposit,0,Transient,D,0,3,0
+10029,CHN,Corporate,0,0,No Deposit,0,Transient-Party,A,0,0,0
+20002,CYP,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+20256,CN,Online TA,0,0,No Deposit,0,Transient,E,0,1,1
+47505,DEU,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+14791,DZA,Offline TA/TO,0,2,No Deposit,0,Transient-Party,A,0,0,0
+81122,DEU,Online TA,0,4,No Deposit,0,Transient,A,0,1,0
+69395,MAR,Online TA,0,0,No Deposit,0,Transient,G,1,0,0
+43701,ESP,Direct,0,0,No Deposit,0,Transient,A,0,3,0
+79196,SWE,Online TA,0,0,No Deposit,0,Transient,H,0,0,0
+56468,BLR,Direct,0,1,No Deposit,0,Transient,B,0,0,0
+42269,ESP,Direct,0,1,No Deposit,0,Transient,G,1,2,0
+82165,FRA,Direct,0,0,No Deposit,0,Transient-Party,E,1,0,0
+46864,ROU,Offline TA/TO,0,1,No Deposit,0,Transient,D,1,1,0
+10046,ESP,Corporate,0,1,No Deposit,0,Transient,A,0,0,0
+77128,PRT,Online TA,0,1,No Deposit,0,Transient,E,0,3,0
+10056,PRT,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,3,0
+13134,CHN,Online TA,0,0,No Deposit,0,Contract,F,0,1,0
+63900,CHE,Online TA,0,0,No Deposit,0,Contract,B,0,1,0
+30964,ITA,Online TA,0,0,No Deposit,0,Transient,D,1,3,0
+22544,DEU,Direct,0,1,No Deposit,0,Transient,E,0,0,1
+9673,IRL,Direct,0,1,No Deposit,0,Transient-Party,E,0,2,0
+22348,ESP,Direct,0,1,No Deposit,0,Transient-Party,F,0,0,1
+5303,ESP,Groups,0,1,No Deposit,0,Transient,A,0,1,0
+1258,ISR,Groups,0,0,No Deposit,0,Group,A,0,0,0
+4316,MAR,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+286,DEU,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+27747,GBR,Corporate,0,1,No Deposit,0,Transient,A,0,0,0
+60615,GBR,Direct,0,4,No Deposit,0,Transient,C,0,1,0
+19022,CHE,Direct,0,0,No Deposit,0,Transient-Party,A,0,2,0
+35536,CN,Groups,0,4,No Deposit,0,Transient-Party,D,0,0,0
+29788,NOR,Online TA,0,1,No Deposit,0,Transient,D,0,0,1
+820,GBR,Online TA,0,1,No Deposit,0,Transient,A,1,0,0
+25725,CHL,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,0
+5022,FRA,Online TA,0,0,No Deposit,0,Transient,F,0,3,0
+725,ROU,Online TA,0,0,No Deposit,0,Transient,F,0,0,0
+9890,ESP,Direct,0,1,No Deposit,0,Transient,D,0,0,0
+60227,USA,Online TA,0,0,No Deposit,0,Transient,C,0,2,1
+82243,FRA,Corporate,0,3,No Deposit,0,Transient,A,0,1,0
+51018,GBR,Corporate,0,0,No Deposit,0,Transient,D,0,0,0
+37614,BEL,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,2,0
+18,JPN,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+57362,ITA,Offline TA/TO,0,1,No Deposit,4,Transient-Party,A,0,0,0
+12080,GBR,Direct,0,0,Refundable,0,Transient-Party,A,0,1,0
+25141,PRT,Direct,0,0,No Deposit,0,Transient,A,1,3,0
+57997,NOR,Online TA,0,0,No Deposit,0,Transient,C,0,0,0
+13019,ARE,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+46479,GBR,Complementary,0,7,No Deposit,0,Transient,F,0,1,0
+35835,GRC,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+60074,GBR,Direct,0,2,No Deposit,0,Transient,G,0,0,0
+9727,CZE,Direct,0,1,No Deposit,0,Transient,D,0,1,0
+74898,ESP,Online TA,0,0,No Deposit,0,Transient,H,0,2,0
+51724,FIN,Online TA,0,0,No Deposit,0,Transient,F,0,3,0
+16755,DEU,Online TA,0,1,No Deposit,0,Transient-Party,A,1,0,0
+17947,NLD,Online TA,0,1,No Deposit,0,Transient-Party,B,0,1,0
+13123,GBR,Offline TA/TO,0,1,No Deposit,0,Transient,E,0,1,0
+1247,NLD,Online TA,0,0,No Deposit,0,Transient,F,0,2,0
+18622,PRT,Groups,1,0,Non Refund,21,Transient,A,0,0,1
+2863,NLD,Groups,0,0,No Deposit,0,Transient-Party,D,0,0,0
+7336,PRT,Direct,0,6,No Deposit,0,Transient-Party,A,0,0,0
+42904,PRT,Direct,0,1,No Deposit,0,Transient,D,0,1,1
+11478,DNK,Direct,0,2,No Deposit,0,Transient,A,1,2,0
+751,PRT,Online TA,1,0,No Deposit,0,Contract,F,0,1,1
+78659,BRA,Online TA,0,1,No Deposit,0,Transient,E,0,2,0
+3532,PRT,Corporate,1,0,Non Refund,0,Transient,A,0,0,1
+68567,GBR,Online TA,0,0,No Deposit,0,Transient,F,0,3,1
+1879,RUS,Online TA,0,2,No Deposit,0,Transient,A,1,1,0
+26049,ZAF,Online TA,0,0,No Deposit,0,Transient,E,0,1,0
+51885,IRL,Online TA,0,0,No Deposit,0,Transient,G,1,0,0
+82557,PRT,Groups,0,0,No Deposit,31,Transient-Party,A,0,0,1
+57427,PRT,Online TA,1,0,No Deposit,0,Contract,C,0,1,1
+65436,JPN,Direct,0,1,No Deposit,0,Transient,E,0,0,0
+65842,GBR,Online TA,0,0,No Deposit,0,Group,A,0,2,0
+2202,TUR,Online TA,0,0,No Deposit,0,Transient,F,0,1,1
+82725,DEU,Groups,0,0,No Deposit,0,Contract,D,0,0,0
+42113,NOR,Online TA,0,0,No Deposit,0,Transient,F,0,2,1
+59603,NLD,Corporate,0,2,No Deposit,0,Transient-Party,A,0,0,0
+7998,PRT,Aviation,0,1,No Deposit,0,Transient,A,0,0,0
+69950,URY,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+15881,BRA,Online TA,0,0,No Deposit,0,Transient-Party,B,0,1,0
+55579,SWE,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+39095,PRT,Direct,0,1,No Deposit,0,Transient,C,1,1,0
+1336,ISR,Groups,0,0,No Deposit,58,Transient-Party,A,0,0,0
+13437,ESP,Direct,0,1,No Deposit,0,Transient,H,1,1,0
+59463,FRA,Online TA,0,0,No Deposit,0,Transient-Party,D,1,2,0
+15151,GTM,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+1310,RUS,Direct,0,0,No Deposit,0,Transient,A,0,1,0
+1268,ABW,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+67126,PRT,Direct,0,0,No Deposit,0,Group,G,0,2,0
+46464,ESP,Online TA,0,0,No Deposit,0,Transient-Party,D,0,3,0
+17213,CHL,Direct,0,0,No Deposit,0,Transient,G,1,0,0
+564,PRT,Direct,1,0,No Deposit,0,Transient,B,0,0,1
+64544,CHN,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+24867,AGO,Corporate,0,1,No Deposit,0,Transient,A,0,1,0
+29966,GGY,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,1
+2221,AUT,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0,0
+50736,PRT,Online TA,0,1,No Deposit,0,Transient,H,0,0,0
+18988,TUR,Groups,0,2,No Deposit,0,Transient-Party,A,0,1,0
+16958,ESP,Groups,0,0,No Deposit,0,Transient-Party,A,1,0,0
+61701,BRA,Online TA,0,1,No Deposit,0,Transient,G,1,2,0
+15437,ESP,Online TA,0,0,Refundable,0,Transient,A,0,1,1
+6938,GBR,Groups,0,1,No Deposit,0,Transient,A,0,0,0
+69556,LUX,Direct,0,0,No Deposit,0,Transient,A,0,1,0
+42666,GBR,Online TA,0,0,No Deposit,0,Transient-Party,G,1,3,0
+16290,CAF,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+77941,LVA,Online TA,0,1,No Deposit,0,Transient,A,0,2,0
+69417,ISR,Direct,0,1,No Deposit,0,Transient-Party,B,0,1,0
+49251,PRT,Aviation,0,4,No Deposit,0,Transient,A,0,0,0
+65925,IDN,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+3,NLD,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+44579,MDV,Online TA,0,0,No Deposit,0,Transient,E,0,0,0
+13237,ESP,Direct,0,2,No Deposit,0,Transient,F,0,1,0
+67001,ESP,Offline TA/TO,0,2,No Deposit,0,Transient,D,0,1,0
+1071,PRT,Corporate,1,0,No Deposit,0,Transient,A,0,1,0
+37571,ARG,Online TA,0,0,No Deposit,0,Transient,D,1,0,0
+2368,ITA,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+42,PRT,Complementary,0,0,No Deposit,0,Transient,B,0,1,0
+21764,CPV,Direct,0,2,No Deposit,0,Transient,E,0,0,0
+34871,BEL,Online TA,0,5,No Deposit,0,Transient-Party,A,0,1,0
+70590,GBR,Online TA,0,0,No Deposit,0,Transient,B,1,2,0
+25705,KWT,Online TA,0,0,No Deposit,0,Transient,D,0,0,1
+76087,MDV,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+32293,PRT,Offline TA/TO,0,1,Non Refund,101,Transient,A,0,0,1
+13109,USA,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+2679,USA,Online TA,0,0,No Deposit,0,Transient,F,1,0,0
+2509,DEU,Direct,0,0,No Deposit,0,Transient,D,0,1,0
+7943,BRA,Direct,0,0,No Deposit,0,Transient,D,0,2,1
+58996,PRT,Online TA,0,3,No Deposit,0,Transient,G,2,0,0
+8240,BEL,Direct,0,1,No Deposit,0,Transient,A,0,1,0
+41060,PRT,Offline TA/TO,0,0,No Deposit,111,Transient-Party,A,0,0,0
+63715,ESP,Direct,0,0,No Deposit,0,Transient,H,0,0,1
+59896,ITA,Online TA,0,5,No Deposit,0,Transient,A,0,2,1
+3391,BEL,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,0,0
+4251,CPV,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+4964,PRT,Offline TA/TO,0,1,No Deposit,0,Contract,A,0,0,1
+10723,ECU,Direct,0,1,No Deposit,0,Transient,A,0,1,0
+9459,PRT,Groups,1,1,No Deposit,0,Transient,A,0,0,1
+54831,NLD,Online TA,0,2,No Deposit,0,Transient,D,0,1,1
+2780,FRA,Online TA,0,0,No Deposit,0,Transient,E,1,1,0
+291,ESP,Online TA,0,0,No Deposit,0,Transient-Party,A,0,2,0
+69376,MAR,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+80925,NZL,Online TA,0,0,No Deposit,0,Transient,D,0,3,0
+60519,FRA,Groups,0,0,No Deposit,0,Transient,E,1,0,0
+2201,ESP,Corporate,0,0,No Deposit,0,Transient,A,0,1,0
+1425,AUT,Groups,0,1,No Deposit,176,Transient-Party,A,0,1,0
+38036,DEU,Online TA,0,0,No Deposit,0,Transient,G,0,1,0
+45227,AUT,Groups,0,0,No Deposit,0,Transient-Party,G,0,0,0
+34954,AGO,Direct,0,2,No Deposit,0,Transient,A,0,0,0
+24046,JPN,Online TA,0,0,No Deposit,0,Transient-Party,A,0,1,0
+4573,BRA,Direct,0,0,No Deposit,0,Transient,C,1,2,0
+36127,BEL,Online TA,0,2,No Deposit,0,Transient-Party,D,0,2,0
+11828,USA,Online TA,0,0,No Deposit,0,Transient,C,0,1,0
+899,IRL,Direct,0,0,No Deposit,0,Transient,A,0,1,0
+2715,PRT,Online TA,0,1,No Deposit,0,Transient-Party,A,0,0,0
+9172,GBR,Groups,0,3,No Deposit,0,Transient-Party,D,0,0,0
+74237,IND,Online TA,0,1,No Deposit,0,Transient,A,0,2,0
+8444,NLD,Online TA,0,1,No Deposit,0,Transient,D,1,2,0
+7390,PRT,Complementary,0,0,No Deposit,0,Transient,C,0,2,0
+16049,GBR,Groups,0,10,No Deposit,0,Transient-Party,D,0,0,0
+5875,IRL,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,0,0
+6928,PRT,Online TA,0,0,No Deposit,0,Group,F,0,2,0
+8340,DZA,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+20070,SWE,Online TA,0,0,No Deposit,0,Transient,E,0,2,1
+5194,CHE,Offline TA/TO,0,0,No Deposit,0,Group,D,0,0,0
+68694,POL,Online TA,0,2,No Deposit,0,Transient,A,0,3,1
+32404,CPV,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+12799,AUS,Online TA,0,0,No Deposit,0,Transient,E,0,0,0
+32339,PRT,Complementary,5,0,No Deposit,0,Transient,A,0,3,0
+1311,MAR,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+5742,IRL,Offline TA/TO,0,1,No Deposit,0,Contract,A,0,0,0
+46256,PRT,Corporate,0,2,No Deposit,0,Group,A,1,0,0
+4530,GBR,Groups,0,1,No Deposit,0,Transient-Party,D,1,0,0
+81083,IRL,Direct,0,2,No Deposit,0,Transient-Party,A,0,1,0
+46929,ISR,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+1885,RUS,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+5442,USA,Online TA,0,0,No Deposit,0,Transient,F,0,3,1
+56611,PRT,Offline TA/TO,1,0,No Deposit,0,Contract,A,0,2,1
+22807,PRT,Corporate,3,0,No Deposit,0,Transient,A,1,0,0
+83515,GBR,Direct,0,2,No Deposit,0,Transient-Party,A,1,1,0
+6146,AUT,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+20900,PRT,Direct,0,0,No Deposit,0,Transient-Party,A,0,4,1
+51164,CHN,Online TA,0,0,No Deposit,0,Transient,E,0,1,0
+31,ESP,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+5536,SGP,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+35076,IND,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+64167,BEL,Online TA,0,2,No Deposit,0,Transient,A,0,3,1
+39067,EGY,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+4364,POL,Offline TA/TO,0,0,No Deposit,0,Transient-Party,D,0,0,0
+18222,PRT,Direct,0,2,No Deposit,0,Transient,D,0,2,0
+15176,IRL,Online TA,0,0,No Deposit,0,Contract,A,0,1,0
+63122,ZWE,Direct,0,4,No Deposit,0,Transient,D,0,0,1
+107,FRA,Online TA,0,2,No Deposit,0,Transient,D,0,2,0
+60408,FIN,Online TA,0,0,No Deposit,0,Transient-Party,D,0,2,0
+2123,GBR,Offline TA/TO,0,0,No Deposit,0,Group,A,0,3,0
+68438,CZE,Corporate,0,5,No Deposit,0,Transient,A,0,0,0
+72433,FRA,Direct,0,0,No Deposit,0,Transient,B,0,1,0
+14372,BRA,Online TA,0,4,No Deposit,0,Transient,A,0,0,1
+49996,AGO,Corporate,0,0,No Deposit,0,Transient,A,0,0,0
+684,DEU,Online TA,0,0,No Deposit,0,Transient,D,1,3,0
+47905,IDN,Groups,0,2,No Deposit,0,Transient-Party,A,0,1,0
+31654,USA,Direct,0,0,No Deposit,0,Transient,E,0,1,0
+33966,PRT,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,2,0
+42290,IRL,Online TA,0,2,No Deposit,0,Transient-Party,A,0,2,0
+39174,CHE,Offline TA/TO,0,0,No Deposit,0,Transient-Party,E,0,0,0
+6101,HKG,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+72516,AUS,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+4277,GBR,Corporate,0,0,No Deposit,0,Transient-Party,A,0,0,0
+14876,NLD,Direct,0,1,No Deposit,0,Transient,F,0,1,0
+32908,NOR,Offline TA/TO,0,0,No Deposit,0,Transient,E,0,1,0
+76537,PRT,Offline TA/TO,1,0,No Deposit,0,Group,A,0,1,1
+51139,NLD,Online TA,0,0,No Deposit,0,Transient,E,1,1,0
+40629,ROU,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+82146,SWE,Direct,0,2,No Deposit,0,Transient,E,1,2,0
+2659,FRA,Direct,0,0,No Deposit,0,Group,A,0,1,0
+9058,PRT,Corporate,1,2,No Deposit,0,Transient,A,0,1,0
+16334,FRA,Online TA,0,0,No Deposit,0,Transient,B,0,3,1
+48645,IND,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+75664,JPN,Online TA,0,0,No Deposit,0,Transient,F,0,2,0
+49010,PRT,Online TA,0,2,No Deposit,0,Transient,F,0,0,1
+40146,SWE,Online TA,0,0,No Deposit,0,Transient,B,0,1,0
+21614,GBR,Online TA,0,0,No Deposit,0,Transient,D,1,2,0
+66733,PRT,Corporate,0,3,No Deposit,0,Transient-Party,C,0,0,0
+28451,PRT,Complementary,2,0,No Deposit,0,Transient,D,0,0,0
+3192,PRT,Offline TA/TO,0,0,Non Refund,16,Transient,A,0,0,1
+35686,CHE,Online TA,0,1,No Deposit,0,Group,A,0,0,0
+33149,CN,Direct,0,2,No Deposit,0,Transient,G,1,0,0
+732,NLD,Online TA,0,2,No Deposit,0,Transient,D,1,0,0
+73850,ISR,Online TA,0,3,No Deposit,0,Transient,D,0,1,1
+22652,ARG,Corporate,0,0,No Deposit,0,Transient-Party,A,0,1,0
+34096,POL,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,1,0
+40386,DOM,Online TA,0,1,No Deposit,0,Transient,D,0,1,1
+42203,BEL,Online TA,0,4,No Deposit,0,Transient,A,0,2,0
+6393,NOR,Online TA,0,1,No Deposit,0,Transient,E,0,3,0
+79545,ESP,Direct,0,0,No Deposit,0,Transient,D,0,5,0
+2510,FRA,Online TA,0,0,No Deposit,0,Transient-Party,D,0,0,1
+26741,GBR,Direct,0,3,No Deposit,0,Transient,F,0,1,0
+18579,FIN,Online TA,0,1,No Deposit,0,Transient,D,0,3,0
+56033,GBR,Complementary,0,0,No Deposit,0,Transient,F,0,2,0
+6026,ROU,Online TA,0,0,No Deposit,0,Transient,G,0,0,0
+13744,IRN,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+47437,BEL,Online TA,0,0,No Deposit,0,Transient,A,0,5,0
+28340,NLD,Online TA,0,0,No Deposit,0,Transient,E,0,0,1
+3285,CHE,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+51556,PRT,Corporate,0,0,No Deposit,0,Group,A,0,1,0
+11887,PRT,Online TA,1,0,No Deposit,0,Transient-Party,A,0,3,1
+36651,RUS,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+38694,PRT,Online TA,0,2,No Deposit,0,Transient,D,1,4,0
+246,PRT,Online TA,0,0,No Deposit,0,Transient-Party,A,0,2,0
+42434,DEU,Online TA,0,0,No Deposit,0,Transient,D,0,3,1
+27966,ISR,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+52636,ROU,Online TA,0,0,No Deposit,0,Contract,A,0,1,0
+65793,DEU,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,3,0
+78881,GBR,Online TA,0,7,No Deposit,0,Transient,G,0,1,0
+18302,RUS,Online TA,0,0,No Deposit,0,Transient,G,0,1,1
+40439,BRA,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+72818,PRT,Offline TA/TO,0,1,No Deposit,0,Contract,A,0,2,0
+6702,IRL,Offline TA/TO,0,1,No Deposit,0,Transient,A,0,2,0
+11800,SWE,Online TA,0,2,No Deposit,0,Transient,A,0,1,0
+6247,SRB,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1,0
+7297,HUN,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+18449,HUN,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+47723,ARE,Online TA,0,1,No Deposit,0,Transient,D,0,1,1
+71237,NLD,Online TA,0,0,No Deposit,0,Transient-Party,H,0,0,0
+32577,CHE,Direct,0,0,No Deposit,0,Transient,E,1,1,0
+33423,IRL,Offline TA/TO,0,0,No Deposit,0,Transient,E,1,0,0
+49938,PRT,Corporate,1,0,No Deposit,0,Transient,D,1,2,0
+73999,PRT,Online TA,0,10,No Deposit,0,Transient-Party,A,1,4,0
+67321,PRT,Direct,0,0,No Deposit,0,Group,G,1,0,0
+59365,PRT,Corporate,4,0,No Deposit,0,Transient,A,0,1,0
+79452,GBR,Offline TA/TO,0,2,No Deposit,0,Transient-Party,E,0,4,0
+10595,ESP,Online TA,0,1,No Deposit,0,Transient-Party,G,1,0,0
+4758,GBR,Groups,0,3,No Deposit,0,Transient-Party,D,1,0,0
+2035,AUS,Online TA,0,1,No Deposit,0,Contract,F,0,3,0
+18397,PRT,Complementary,0,0,No Deposit,0,Transient,A,0,3,0
+46101,PRT,Online TA,0,2,No Deposit,0,Transient,E,1,1,0
+20519,LUX,Online TA,0,1,No Deposit,0,Transient,A,1,2,0
+39758,IRL,Direct,0,1,No Deposit,0,Transient,A,0,2,0
+19427,AUT,Corporate,0,3,No Deposit,0,Transient-Party,A,0,0,0
+71884,RUS,Online TA,0,2,No Deposit,0,Transient,A,0,1,0
+41413,ESP,Corporate,0,2,No Deposit,0,Transient-Party,A,0,0,0
+4200,GBR,Direct,0,0,No Deposit,0,Transient-Party,D,0,0,0
+82050,FIN,Online TA,0,0,No Deposit,0,Contract,F,0,1,0
+22493,BRA,Direct,0,0,No Deposit,0,Transient-Party,A,0,0,0
+44599,DZA,Offline TA/TO,0,1,No Deposit,0,Transient,A,0,0,0
+10339,CN,Direct,0,0,No Deposit,0,Transient,A,0,3,0
+82462,FRA,Online TA,0,1,No Deposit,0,Transient-Party,A,0,3,0
+26433,DEU,Online TA,0,0,No Deposit,0,Transient,A,1,3,0
+68559,DEU,Online TA,0,4,No Deposit,0,Transient,E,0,3,0
+20858,SGP,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+50184,BRA,Corporate,0,1,No Deposit,0,Transient-Party,E,0,0,0
+69675,PRT,Corporate,1,2,No Deposit,0,Transient,A,1,1,0
+26397,DEU,Direct,0,1,No Deposit,0,Transient,D,0,2,0
+39884,AGO,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+59429,RUS,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+59443,DNK,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+56977,UKR,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+60515,PRT,Online TA,0,0,No Deposit,0,Contract,B,0,1,1
+6587,ESP,Direct,0,3,No Deposit,0,Transient,F,1,0,0
+54848,ITA,Direct,0,1,No Deposit,0,Transient,D,0,2,0
+63384,PRT,Complementary,0,0,No Deposit,0,Transient,E,0,1,0
+1045,AUT,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+2832,DEU,Online TA,0,0,No Deposit,0,Transient,E,0,0,0
+556,PRT,Online TA,1,0,No Deposit,0,Transient,A,0,0,1
+715,FRA,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+65011,SWE,Online TA,0,1,No Deposit,0,Transient,A,0,2,1
+194,IRL,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,1,0
+71912,RUS,Direct,0,0,No Deposit,0,Transient,A,1,0,0
+27167,PRT,Complementary,0,1,No Deposit,0,Transient,A,0,2,0
+51471,ISR,Online TA,0,1,No Deposit,0,Transient,F,0,1,0
+5218,GBR,Direct,0,1,No Deposit,0,Transient,F,0,1,0
+66240,PRT,Offline TA/TO,0,0,No Deposit,0,Group,D,0,0,0
+7452,GRC,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+37991,CHL,Online TA,0,1,No Deposit,0,Contract,D,0,2,0
+67977,NOR,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+32197,BRA,Groups,0,0,No Deposit,0,Transient,D,0,1,0
+47998,PRT,Groups,0,0,No Deposit,0,Transient-Party,G,0,1,0
+79241,PRT,Online TA,0,1,No Deposit,0,Transient,F,0,1,1
+51465,CHN,Direct,0,0,No Deposit,0,Transient,B,0,0,0
+61199,PRT,Corporate,0,0,No Deposit,0,Group,A,0,0,1
+54371,NLD,Online TA,0,3,No Deposit,0,Transient,E,0,1,0
+9639,GBR,Online TA,0,0,No Deposit,0,Group,A,0,0,0
+24496,ESP,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,3,0
+70096,AUT,Online TA,0,1,No Deposit,0,Transient-Party,B,0,0,0
+49403,PRT,Groups,0,7,No Deposit,0,Transient,A,0,0,0
+15573,LKA,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+1417,PRT,Online TA,0,0,No Deposit,0,Transient-Party,A,0,1,0
+62788,POL,Corporate,0,7,No Deposit,0,Transient-Party,A,0,1,0
+18873,FRA,Corporate,0,1,No Deposit,0,Transient-Party,A,0,0,1
+8223,NLD,Online TA,0,0,No Deposit,0,Transient,E,0,1,0
+57558,GEO,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+23316,NGA,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+22993,HUN,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+41812,ITA,Direct,0,0,No Deposit,0,Transient-Party,E,0,0,0
+3909,ITA,Offline TA/TO,0,0,No Deposit,38,Transient-Party,A,0,0,0
+3574,PRT,Online TA,1,0,No Deposit,0,Contract,D,0,1,1
+39271,THA,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+49049,GBR,Online TA,0,4,No Deposit,0,Transient,A,0,1,0
+6345,PRT,Offline TA/TO,0,1,No Deposit,4,Transient-Party,A,0,0,0
+16880,ESP,Offline TA/TO,0,0,No Deposit,0,Contract,A,1,0,0
+74654,MYT,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+30231,DNK,Online TA,0,0,No Deposit,0,Transient-Party,A,0,1,0
+863,SWE,Online TA,0,0,No Deposit,0,Transient,E,0,0,1
+48168,PRT,Complementary,0,1,No Deposit,0,Transient,D,0,2,0
+25402,MOZ,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+25321,KOR,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+54940,PRT,Online TA,0,0,No Deposit,0,Transient-Party,A,1,0,0
+1645,FRA,Offline TA/TO,0,1,No Deposit,0,Contract,A,0,1,0
+10529,GBR,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,1,0
+28485,LTU,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+42994,GBR,Corporate,0,0,No Deposit,1,Transient-Party,A,0,0,0
+77516,DEU,Online TA,0,3,No Deposit,0,Transient,A,0,4,0
+43064,CN,Offline TA/TO,0,1,No Deposit,0,Group,D,0,1,0
+1176,SWE,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+26901,PRT,Online TA,1,0,No Deposit,0,Contract,F,0,0,1
+1968,USA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+8201,BRA,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+30478,GBR,Groups,0,0,No Deposit,0,Transient-Party,D,0,2,0
+14022,GRC,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,0,0
+41990,BEL,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+1750,PRT,Direct,0,1,No Deposit,0,Transient,E,0,2,0
+52589,USA,Online TA,0,0,No Deposit,0,Transient,C,0,0,0
+82620,AGO,Online TA,0,0,No Deposit,0,Contract,A,0,0,0
+81563,HKG,Online TA,0,2,No Deposit,0,Transient,A,0,0,1
+4689,BRA,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+174,SGP,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+50987,NOR,Online TA,0,1,No Deposit,0,Transient,B,0,0,0
+17005,CN,Online TA,0,0,No Deposit,0,Transient,D,0,4,1
+29035,USA,Direct,0,1,No Deposit,0,Transient,F,1,0,0
+2941,PRT,Offline TA/TO,0,1,No Deposit,0,Contract,D,0,0,1
+58287,NLD,Offline TA/TO,0,0,No Deposit,0,Transient,E,0,2,0
+55730,PRT,Corporate,0,1,No Deposit,0,Transient,A,0,3,0
+26256,CHE,Direct,0,1,No Deposit,0,Transient,C,1,1,0
+1179,CHE,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+61424,DEU,Groups,0,1,No Deposit,0,Contract,A,0,1,0
+50567,ESP,Direct,0,0,No Deposit,0,Transient,F,1,2,0
+4884,DEU,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,0,0
+6719,PRT,Offline TA/TO,0,0,Non Refund,55,Transient,A,0,0,1
+60082,GBR,Online TA,0,2,No Deposit,0,Transient,B,0,3,0
+7347,SRB,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+78563,CHE,Online TA,0,2,No Deposit,0,Transient,B,0,3,0
+15005,NLD,Online TA,0,0,No Deposit,0,Transient,A,0,4,0
+2342,FRA,Direct,0,0,No Deposit,0,Transient-Party,A,1,0,0
+48047,MAR,Direct,0,0,No Deposit,0,Transient,A,0,1,1
+27857,IRL,Offline TA/TO,0,1,No Deposit,0,Transient-Party,E,0,1,0
+57631,PRT,Corporate,1,4,No Deposit,0,Transient,A,0,0,0
+22073,ETH,Direct,0,0,No Deposit,0,Transient,D,0,0,0
+39693,ESP,Offline TA/TO,0,4,No Deposit,63,Transient-Party,A,0,0,0
+23478,ESP,Direct,0,3,No Deposit,0,Transient,A,0,2,0
+30143,PRT,Online TA,0,1,No Deposit,0,Transient-Party,E,0,0,0
+17023,SVN,Online TA,0,0,No Deposit,0,Transient,F,0,0,0
+17528,ESP,Online TA,0,0,No Deposit,0,Transient-Party,G,0,1,0
+3301,DEU,Direct,0,0,No Deposit,0,Transient,F,0,0,0
+12593,HUN,Online TA,0,0,No Deposit,0,Transient,D,0,3,0
+60337,PRT,Online TA,0,2,No Deposit,0,Transient-Party,D,0,0,1
+74664,DEU,Offline TA/TO,0,0,No Deposit,0,Transient-Party,B,0,1,0
+838,PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1,0
+6250,PRT,Direct,0,2,No Deposit,0,Transient,D,1,2,0
+79450,HRV,Online TA,0,0,No Deposit,0,Contract,A,0,2,0
+14388,PRT,Online TA,0,2,No Deposit,0,Transient,D,0,0,1
+17510,ESP,Online TA,0,0,No Deposit,0,Transient,B,0,1,0
+5451,ESP,Offline TA/TO,0,1,No Deposit,0,Transient,D,0,2,0
+460,FRA,Online TA,0,0,No Deposit,0,Contract,A,0,2,0
+52188,GBR,Online TA,0,1,No Deposit,0,Transient,A,0,4,0
+11474,PRT,Complementary,1,0,No Deposit,0,Transient,A,0,1,1
+4199,FRA,Direct,0,2,No Deposit,0,Transient,D,0,2,0
+61505,PRT,Online TA,0,1,No Deposit,0,Transient-Party,E,0,1,0
+5639,ISR,Groups,0,0,No Deposit,0,Transient,A,0,1,0
+60794,CHN,Online TA,0,5,No Deposit,0,Transient,A,0,2,1
+8160,PRT,Offline TA/TO,0,0,Non Refund,41,Transient,A,0,0,1
+12007,ESP,Online TA,0,0,No Deposit,0,Transient,A,1,3,0
+5693,IND,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+8766,DNK,Online TA,0,1,No Deposit,0,Transient-Party,A,0,2,0
+21549,CZE,Online TA,0,0,No Deposit,0,Transient,D,0,2,1
+5061,BRA,Online TA,0,1,No Deposit,0,Transient,D,0,1,1
+10350,ESP,Direct,0,2,No Deposit,0,Transient,D,1,0,0
+1523,AGO,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+34177,DNK,Online TA,0,0,No Deposit,0,Transient,D,0,3,1
+1128,GBR,Online TA,0,0,No Deposit,0,Transient,F,0,1,0
+69173,ITA,Online TA,0,0,No Deposit,0,Transient-Party,A,1,3,0
+15656,FRA,Online TA,0,1,No Deposit,0,Transient,B,0,2,0
+3223,PRT,Online TA,0,1,No Deposit,0,Transient,G,1,1,0
+60784,LUX,Online TA,0,1,No Deposit,0,Transient,A,0,3,1
+25139,PRT,Groups,0,0,Refundable,0,Transient-Party,C,0,0,1
+22160,LVA,Online TA,0,1,No Deposit,0,Contract,A,0,3,0
+72842,ITA,Online TA,0,0,No Deposit,0,Transient-Party,A,1,1,0
+72572,TUR,Online TA,0,1,No Deposit,0,Transient,A,1,3,0
+40339,CN,Online TA,0,1,No Deposit,0,Transient,A,0,1,1
+56465,DEU,Direct,0,0,No Deposit,0,Transient,B,0,0,0
+83562,NLD,Online TA,0,0,No Deposit,0,Transient,B,0,0,0
+71603,LUX,Direct,0,0,No Deposit,0,Transient,F,0,0,0
+37752,ITA,Online TA,0,1,No Deposit,0,Transient,B,0,1,1
+694,PRT,Online TA,0,1,No Deposit,0,Transient,F,0,2,0
+73202,POL,Direct,0,3,No Deposit,0,Transient-Party,A,0,0,0
+457,ITA,Offline TA/TO,0,2,No Deposit,4,Transient-Party,A,0,0,0
+14316,CHE,Online TA,0,3,No Deposit,0,Transient,A,0,0,1
+687,IRL,Offline TA/TO,0,0,No Deposit,0,Transient,E,0,2,0
+3881,ITA,Online TA,0,3,No Deposit,0,Transient,A,0,1,0
+14900,ITA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,B,0,1,0
+50055,CHE,Online TA,0,0,No Deposit,0,Transient-Party,D,0,1,0
+77107,ISL,Groups,0,0,No Deposit,0,Transient,A,0,0,0
+44781,ESP,Offline TA/TO,0,0,No Deposit,0,Transient,D,1,2,0
+1471,GBR,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+7414,GBR,Direct,0,0,No Deposit,0,Transient,E,0,2,0
+56777,MAR,Online TA,0,0,No Deposit,0,Transient,H,0,1,1
+34465,PRT,Direct,0,4,No Deposit,0,Transient,A,0,3,0
+26237,PRT,Online TA,0,1,No Deposit,0,Contract,D,1,0,0
+77135,ISL,Offline TA/TO,0,0,No Deposit,187,Transient-Party,A,0,1,0
+13477,ITA,Direct,0,1,No Deposit,0,Transient,B,0,1,0
+77253,IRL,Online TA,0,0,No Deposit,0,Transient,H,0,1,0
+75498,PRT,Offline TA/TO,0,3,No Deposit,0,Transient-Party,A,1,2,0
+18659,PRT,Groups,0,1,Refundable,0,Transient-Party,A,0,0,0
+78961,CHE,Online TA,0,1,No Deposit,0,Transient,E,1,2,0
+769,ESP,Online TA,0,1,No Deposit,0,Transient,D,1,3,0
+7840,AUS,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+50166,JPN,Online TA,0,0,No Deposit,0,Transient,G,0,1,0
+3452,USA,Online TA,0,0,No Deposit,0,Transient,E,0,1,0
+40578,ESP,Direct,0,2,No Deposit,0,Transient,G,0,1,0
+75003,CHE,Online TA,0,1,No Deposit,0,Transient,G,0,2,0
+77602,CZE,Online TA,0,0,No Deposit,0,Transient,A,1,1,0
+29523,DEU,Online TA,0,2,No Deposit,0,Transient,G,0,1,0
+10776,CYP,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+65213,BEL,Direct,0,3,No Deposit,0,Transient,H,0,0,0
+44449,CZE,Online TA,0,0,No Deposit,0,Transient,A,0,3,0
+7731,DEU,Online TA,0,0,No Deposit,0,Transient,G,1,1,0
+3961,CHE,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+2933,PRT,Direct,0,1,No Deposit,0,Transient,E,1,1,0
+15605,ZAF,Online TA,0,0,No Deposit,0,Transient-Party,E,0,2,0
+17428,BEL,Direct,0,1,No Deposit,0,Transient,E,1,1,0
+31068,DEU,Online TA,0,3,No Deposit,0,Transient,B,0,2,0
+18878,PRT,Groups,0,0,Non Refund,76,Transient,A,0,0,1
+2065,BEL,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+5665,IMN,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+5893,PRT,Online TA,0,1,No Deposit,0,Transient-Party,B,0,0,1
+5009,AUT,Online TA,0,0,No Deposit,0,Transient,D,0,0,1
+29748,PRT,Direct,0,1,No Deposit,0,Transient-Party,E,0,1,0
+8983,ESP,Online TA,0,4,No Deposit,0,Transient,A,1,2,0
+34021,PRT,Direct,0,0,No Deposit,0,Contract,A,0,0,0
+27900,PRT,Offline TA/TO,0,0,No Deposit,0,Transient,F,0,1,1
+15335,ESP,Online TA,0,1,No Deposit,0,Transient,C,0,1,1
+516,GBR,Online TA,0,1,No Deposit,0,Transient,D,0,2,0
+68790,USA,Online TA,0,1,No Deposit,0,Transient,G,0,1,0
+53908,NLD,Direct,0,0,No Deposit,0,Transient,A,0,2,0
+18278,ISR,Online TA,0,1,No Deposit,0,Transient,D,0,0,0
+76844,ESP,Direct,0,2,No Deposit,0,Transient,C,0,1,0
+11594,FRA,Online TA,0,2,No Deposit,0,Transient-Party,A,1,1,0
+416,GBR,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+56568,RUS,Online TA,0,1,No Deposit,0,Transient,A,0,1,1
+6148,IRL,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+80653,ITA,Online TA,0,5,No Deposit,0,Transient,D,1,0,0
+1326,BRA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1,0
+62239,GBR,Direct,0,0,No Deposit,0,Transient-Party,F,0,0,0
+16157,GBR,Online TA,0,0,No Deposit,0,Transient,B,0,0,1
+6530,NOR,Online TA,0,0,No Deposit,0,Transient,E,0,1,0
+82434,PRT,Direct,0,2,No Deposit,0,Transient-Party,E,0,3,0
+70014,CHN,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+6354,IRL,Online TA,0,2,No Deposit,0,Transient,A,0,2,1
+10060,PRT,Complementary,0,0,No Deposit,0,Transient-Party,A,0,1,0
+31957,CN,Offline TA/TO,0,1,No Deposit,0,Transient,D,1,0,0
+73244,GBR,Complementary,0,1,No Deposit,0,Transient,F,0,1,0
+20663,PRT,Online TA,0,3,No Deposit,0,Transient,D,1,2,0
+2561,ROU,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0,0
+5233,EGY,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0,0
+5825,PRT,Online TA,0,1,No Deposit,0,Contract,A,0,2,1
+14838,IRL,Offline TA/TO,0,1,No Deposit,0,Transient-Party,D,0,1,0
+46961,SWE,Online TA,0,2,No Deposit,0,Transient,E,0,1,1
+2235,DEU,Direct,0,0,No Deposit,0,Transient,F,1,0,0
+64516,PRT,Online TA,0,1,Refundable,0,Transient,C,0,0,1
+335,ITA,Direct,0,1,No Deposit,0,Transient,E,1,2,0
+380,PRT,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+4344,NLD,Online TA,0,0,No Deposit,0,Transient-Party,A,1,1,0
+10270,NGA,Direct,0,0,No Deposit,0,Transient,D,0,0,1
+462,TUR,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1,0
+492,CHN,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+18185,PAK,Online TA,0,0,No Deposit,0,Transient,D,0,0,1
+4254,GBR,Online TA,0,0,No Deposit,0,Transient-Party,A,1,1,0
+35325,FRA,Direct,0,0,No Deposit,0,Transient,F,0,0,1
+21846,ITA,Offline TA/TO,0,4,No Deposit,0,Transient-Party,A,0,2,0
+35671,AUT,Groups,0,2,No Deposit,0,Transient-Party,E,0,0,0
+2603,PRT,Offline TA/TO,13,0,No Deposit,31,Transient-Party,A,0,0,1
+15895,USA,Online TA,0,2,No Deposit,0,Transient,E,0,2,0
+43940,SVK,Online TA,0,0,No Deposit,0,Transient,D,1,2,0
+1553,ESP,Direct,0,0,No Deposit,0,Transient,D,0,1,0
+16810,DEU,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,1,0
+57304,ESP,Online TA,0,1,No Deposit,0,Transient,C,1,3,0
+22661,FIN,Direct,0,1,No Deposit,0,Transient,G,0,0,0
+26513,LVA,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+34895,PRT,Offline TA/TO,0,0,No Deposit,215,Transient-Party,A,0,0,0
+74945,THA,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+4846,AUT,Corporate,0,2,No Deposit,0,Transient-Party,E,0,0,0
+90,PRT,Online TA,0,0,No Deposit,0,Transient,D,1,2,0
+38765,SWE,Online TA,0,0,No Deposit,0,Transient,A,1,2,0
+11288,POL,Corporate,0,1,No Deposit,0,Transient-Party,A,0,1,0
+11185,BEL,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+15787,AUS,Groups,0,2,No Deposit,0,Transient-Party,A,0,1,0
+31252,LTU,Direct,0,0,No Deposit,0,Transient,E,1,2,0
+51590,MAR,Online TA,0,0,No Deposit,0,Transient,E,0,2,0
+5031,PRT,Complementary,0,0,No Deposit,0,Transient,E,0,3,0
+4461,DEU,Direct,0,1,No Deposit,0,Transient,D,1,2,0
+10808,PRT,Direct,0,2,No Deposit,0,Transient,A,1,0,0
+6615,POL,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+47677,FRA,Direct,0,0,No Deposit,0,Transient,D,0,4,0
+40195,ESP,Online TA,0,2,No Deposit,0,Transient,G,1,0,0
+58707,PRT,Online TA,0,7,No Deposit,0,Transient,A,0,1,0
+59385,PRT,Online TA,1,0,No Deposit,0,Transient-Party,D,0,1,1
+79690,ESP,Online TA,0,1,No Deposit,0,Transient-Party,D,0,0,1
+45086,CMR,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+4146,POL,Direct,0,1,No Deposit,0,Transient,F,0,2,0
+816,AUT,Online TA,0,1,No Deposit,0,Transient-Party,E,0,3,0
+9316,ESP,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,0,0
+37080,CN,Online TA,0,1,No Deposit,0,Transient,H,1,0,0
+18595,AUT,Direct,0,3,No Deposit,0,Transient,A,0,2,0
+4077,DNK,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+42327,FRA,Offline TA/TO,0,1,No Deposit,0,Transient,A,1,0,0
+20682,ROU,Direct,0,0,No Deposit,0,Transient,E,0,1,0
+2525,GBR,Offline TA/TO,0,1,No Deposit,0,Transient-Party,D,0,1,0
+9195,CHN,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+66836,DEU,Groups,0,1,No Deposit,0,Transient,D,0,0,0
+64392,CHE,Online TA,0,0,No Deposit,0,Transient-Party,E,0,0,1
+47455,USA,Direct,0,2,No Deposit,0,Transient,E,0,2,0
+66798,ESP,Online TA,0,1,No Deposit,0,Transient,G,0,2,0
+14775,FRA,Direct,0,2,No Deposit,0,Transient,A,0,0,0
+9484,ARG,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+11723,PRT,Direct,1,0,No Deposit,0,Transient,A,0,2,1
+179,USA,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+65041,PRT,Online TA,0,2,No Deposit,0,Transient,E,0,2,1
+9221,HRV,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+12051,LVA,Offline TA/TO,0,2,No Deposit,63,Transient-Party,A,0,0,0
+21126,PRT,Direct,0,0,No Deposit,0,Group,D,0,1,0
+67098,CN,Online TA,0,3,No Deposit,0,Transient,A,0,1,1
+68497,AUT,Online TA,0,0,No Deposit,0,Transient,G,0,2,0
+8610,AGO,Direct,0,0,No Deposit,0,Transient,A,0,0,0
+347,PRT,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+33874,ISR,Online TA,0,1,No Deposit,0,Transient,D,0,1,1
+5141,AUT,Groups,0,1,No Deposit,0,Transient-Party,E,0,0,0
+29534,FRA,Online TA,0,2,No Deposit,0,Transient,F,0,1,0
+51736,CHE,Direct,0,3,No Deposit,0,Transient,D,0,0,1
+6007,GBR,Online TA,0,1,No Deposit,0,Transient,H,0,1,0
+82901,GBR,Direct,0,2,No Deposit,0,Transient,D,0,0,0
+3746,GBR,Online TA,0,1,No Deposit,0,Transient,E,0,2,0
+45469,NLD,Online TA,0,0,No Deposit,0,Transient,E,0,1,1
+50422,ROU,Online TA,0,2,No Deposit,0,Transient,C,1,1,0
+55429,DZA,Online TA,0,0,No Deposit,0,Transient,F,0,2,0
+77642,CPV,Direct,0,0,No Deposit,0,Transient,A,0,0,0
+20634,PHL,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+1866,IRL,Online TA,0,0,No Deposit,0,Transient,F,0,2,0
+726,PRT,Corporate,0,2,No Deposit,0,Transient,A,0,0,0
+27175,DNK,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+64710,PRT,Groups,0,2,No Deposit,121,Transient-Party,A,0,1,0
+41974,DEU,Online TA,0,5,No Deposit,0,Transient,A,0,0,0
+82195,IRL,Direct,0,2,No Deposit,0,Transient-Party,B,0,2,0
+12606,PRT,Offline TA/TO,0,0,Non Refund,62,Transient,A,0,0,1
+62457,IRL,Online TA,0,1,No Deposit,0,Transient-Party,A,0,3,0
+7685,AUS,Aviation,0,0,No Deposit,0,Transient,D,0,0,0
+76388,MEX,Corporate,0,1,No Deposit,0,Transient-Party,A,0,0,0
+6490,PRT,Complementary,0,1,No Deposit,0,Transient,F,1,4,0
+33409,SWE,Online TA,0,0,No Deposit,0,Transient,G,0,0,0
+14408,ARG,Corporate,0,1,No Deposit,15,Transient-Party,A,0,0,0
+41097,AGO,Online TA,0,3,No Deposit,0,Transient,A,0,1,0
+8525,PRT,Offline TA/TO,0,1,No Deposit,0,Transient,A,0,3,1
+62338,GBR,Direct,0,0,No Deposit,0,Transient,D,0,4,0
+78035,CN,Offline TA/TO,0,0,No Deposit,0,Transient-Party,D,0,1,0
+66801,ROU,Online TA,0,1,No Deposit,0,Transient,D,0,3,1
+20501,PRT,Corporate,0,0,No Deposit,0,Transient,A,0,3,0
+83435,AGO,Corporate,0,0,No Deposit,0,Transient-Party,A,0,0,0
+13093,PRT,Direct,0,3,No Deposit,0,Transient,E,1,2,0
+30938,ESP,Online TA,0,0,No Deposit,0,Transient,C,0,0,1
+2694,POL,Online TA,0,3,No Deposit,0,Transient,F,0,1,0
+47608,FRA,Direct,1,0,No Deposit,0,Transient,A,0,1,1
+26272,CHE,Online TA,0,0,No Deposit,0,Transient-Party,A,0,3,0
+3628,ROU,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+36087,NZL,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+11654,THA,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+50107,PRT,Corporate,2,2,No Deposit,0,Transient,A,0,0,0
+32763,FIN,Online TA,0,0,No Deposit,0,Transient,E,1,1,0
+17093,GBR,Online TA,0,7,No Deposit,0,Transient,D,0,1,0
+1694,FIN,Online TA,0,0,No Deposit,0,Transient,F,0,1,0
+31643,NLD,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+29165,PRT,Direct,0,2,No Deposit,0,Transient,C,0,0,1
+32905,KWT,Online TA,0,0,No Deposit,0,Transient,C,1,1,0
+11106,TUR,Groups,0,0,No Deposit,0,Transient,A,0,1,0
+27995,PRT,Online TA,0,2,No Deposit,0,Contract,A,0,2,0
+21779,GBR,Offline TA/TO,0,2,No Deposit,0,Transient,A,0,3,0
+38635,PRT,Groups,0,2,No Deposit,0,Transient,B,0,2,1
+36602,PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,G,0,0,1
+26229,ITA,Online TA,0,1,No Deposit,0,Transient,B,0,1,0
+38558,PRT,Corporate,0,1,No Deposit,0,Transient,A,1,3,0
+56845,GBR,Corporate,0,1,No Deposit,0,Transient,D,0,2,0
+3974,DEU,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,1
+13763,ITA,Online TA,0,5,No Deposit,0,Transient-Party,F,0,1,0
+14758,LBN,Online TA,0,0,No Deposit,0,Contract,A,0,2,0
+65952,ESP,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,1,0,0
+15045,ISR,Online TA,0,0,No Deposit,0,Transient,D,1,0,0
+12133,ITA,Aviation,0,0,No Deposit,0,Transient,A,0,0,0
+13934,SRB,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+58232,DNK,Online TA,0,1,No Deposit,0,Transient,F,0,1,0
+1332,DNK,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,0
+10073,CHE,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+13508,PRT,Complementary,2,0,No Deposit,0,Transient,A,0,2,1
+1337,ARE,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+68479,MKD,Groups,0,2,No Deposit,0,Transient,A,0,0,0
+40216,IDN,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+61669,AUT,Online TA,0,0,No Deposit,0,Transient,A,0,4,0
+41911,FRA,Direct,0,1,No Deposit,0,Transient,F,1,2,0
+53056,HKG,Online TA,0,0,No Deposit,0,Transient,D,0,3,1
+48538,FRA,Online TA,0,6,No Deposit,0,Transient,D,0,3,0
+15616,BGR,Online TA,0,3,No Deposit,0,Transient,A,0,0,0
+10072,ESP,Online TA,0,1,No Deposit,0,Transient,E,0,1,0
+5880,PRT,Online TA,0,0,No Deposit,0,Contract,A,0,1,1
+28479,RUS,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,0,0
+971,FRA,Online TA,0,1,No Deposit,0,Transient,A,0,3,0
+51226,GBR,Corporate,0,2,No Deposit,13,Transient-Party,A,0,0,0
+3370,BRA,Direct,0,0,No Deposit,0,Transient,D,0,1,0
+13085,ROU,Online TA,0,0,No Deposit,0,Contract,A,0,0,0
+7811,SGP,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+700,PRT,Online TA,0,1,No Deposit,0,Transient-Party,D,0,1,0
+65541,PRT,Complementary,0,3,No Deposit,0,Transient,A,0,1,0
+19328,GBR,Online TA,0,1,No Deposit,0,Transient,F,0,0,0
+19936,PRT,Direct,0,1,No Deposit,0,Transient,D,1,1,0
+2610,PRT,Offline TA/TO,0,2,No Deposit,0,Transient,C,1,0,0
+9254,PRT,Direct,0,0,No Deposit,0,Transient,H,0,1,1
+23604,DEU,Direct,0,0,No Deposit,0,Transient,B,0,1,0
+22813,PRT,Offline TA/TO,0,1,No Deposit,0,Group,A,0,0,0
+48842,PRT,Online TA,0,1,No Deposit,0,Transient,A,1,3,0
+25547,BEL,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,2,0
+52004,QAT,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+4992,ESP,Corporate,0,1,No Deposit,0,Transient,D,0,1,0
+38893,GBR,Offline TA/TO,0,2,No Deposit,0,Transient,D,0,4,0
+5723,ESP,Direct,0,0,No Deposit,0,Transient-Party,A,0,0,0
+1365,USA,Online TA,0,2,No Deposit,0,Transient,A,0,2,0
+33432,ITA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,E,0,0,0
+48488,DOM,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+22491,GBR,Online TA,0,1,No Deposit,0,Transient-Party,A,0,0,0
+46845,DEU,Offline TA/TO,0,0,No Deposit,0,Transient,B,0,0,0
+54950,PRT,Direct,0,3,No Deposit,0,Transient,F,0,1,0
+25187,GBR,Online TA,0,0,No Deposit,0,Transient,D,1,0,0
+45916,FRA,Direct,0,3,No Deposit,0,Transient,A,0,0,0
+59119,BRA,Online TA,0,0,No Deposit,0,Transient,G,1,0,0
+74023,IDN,Online TA,0,0,No Deposit,0,Transient,E,0,0,1
+11706,PRT,Corporate,0,1,Non Refund,0,Transient-Party,E,0,0,0
+55186,ESP,Online TA,0,0,No Deposit,0,Transient-Party,A,0,2,1
+19048,AUS,Online TA,0,0,No Deposit,0,Transient,F,0,1,0
+77682,TUR,Online TA,0,0,No Deposit,0,Transient,A,0,3,1
+82495,NLD,Online TA,0,2,No Deposit,0,Transient-Party,D,0,1,0
+16335,FRA,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+43723,NOR,Online TA,0,2,No Deposit,0,Transient-Party,A,0,5,0
+22108,PRT,Online TA,0,1,No Deposit,0,Transient,E,0,2,0
+1216,PRT,Groups,1,0,Non Refund,22,Transient,A,0,0,1
+15704,PRT,Online TA,1,0,No Deposit,0,Transient,E,0,1,1
+19082,GBR,Groups,0,0,No Deposit,0,Transient,A,0,2,0
+80,ITA,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+41253,PRT,Online TA,0,4,No Deposit,0,Transient,G,0,5,0
+15832,CN,Online TA,0,3,No Deposit,0,Transient,A,0,2,1
+28384,ESP,Online TA,0,3,No Deposit,0,Transient,D,1,5,0
+13592,FRA,Online TA,11,0,No Deposit,0,Transient,D,0,1,0
+56607,JPN,Direct,0,0,No Deposit,0,Transient,B,0,0,0
+5402,DNK,Direct,0,0,No Deposit,0,Transient,D,0,2,0
+3240,AGO,Direct,0,5,No Deposit,0,Transient,D,0,3,0
+20627,PRT,Online TA,0,0,No Deposit,0,Transient,F,1,0,0
+50193,CHL,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+62390,USA,Online TA,0,1,No Deposit,0,Transient,H,0,1,0
+55999,FRA,Online TA,0,0,No Deposit,0,Contract,F,0,1,0
+64918,FIN,Direct,0,0,No Deposit,0,Transient,E,0,1,0
+14345,GBR,Online TA,0,0,No Deposit,0,Transient,G,0,2,1
+52046,CN,Online TA,0,0,No Deposit,0,Transient,G,1,2,0
+108,BEL,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+64078,IRL,Direct,0,0,No Deposit,0,Transient,F,0,0,1
+68354,DEU,Online TA,0,3,No Deposit,0,Transient,D,0,0,1
+27850,PRT,Corporate,0,0,No Deposit,0,Transient,D,0,2,0
+7822,DNK,Online TA,0,0,No Deposit,0,Transient,G,0,2,0
+37350,PRT,Groups,0,0,No Deposit,236,Transient-Party,A,0,0,1
+4265,GBR,Groups,0,3,No Deposit,0,Transient-Party,A,0,1,0
+2643,FRA,Direct,0,1,No Deposit,0,Transient,A,1,1,0
+259,PRT,Complementary,0,1,No Deposit,0,Transient,F,0,1,0
+6858,GBR,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,2,0
+14092,USA,Online TA,0,1,No Deposit,0,Transient,G,0,2,0
+65434,IRL,Direct,0,0,No Deposit,0,Transient,B,0,0,1
+38536,GBR,Online TA,0,1,No Deposit,0,Transient-Party,A,0,0,1
+227,FRA,Online TA,0,2,No Deposit,0,Transient,D,0,1,1
+36594,CN,Online TA,0,0,No Deposit,0,Transient,D,0,3,0
+30684,BEL,Direct,0,0,No Deposit,0,Transient,C,0,1,0
+2910,ARG,Direct,0,0,No Deposit,0,Transient,A,0,0,0
+60236,DEU,Direct,0,0,No Deposit,0,Transient,G,0,0,1
+70147,MAR,Direct,0,0,No Deposit,0,Transient,D,0,0,1
+38730,USA,Online TA,0,0,No Deposit,0,Transient-Party,C,0,2,0
+4718,ESP,Online TA,0,0,No Deposit,0,Contract,D,0,2,0
+43605,FRA,Online TA,0,2,No Deposit,0,Transient-Party,A,0,0,0
+51221,BEL,Online TA,0,1,No Deposit,0,Transient,A,0,3,0
+3305,PRT,Groups,0,0,Non Refund,93,Transient,A,0,0,1
+7673,PRT,Online TA,0,1,No Deposit,0,Contract,A,0,1,1
+1996,GBR,Offline TA/TO,0,0,No Deposit,0,Transient,A,1,0,0
+1428,PRT,Direct,0,0,No Deposit,0,Transient,B,0,1,0
+77212,GBR,Direct,0,3,No Deposit,0,Transient,F,1,3,0
+40122,DNK,Direct,0,0,No Deposit,0,Transient,D,0,0,0
+3589,PRT,Direct,0,0,No Deposit,0,Transient,F,0,0,1
+7550,AGO,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+26778,HUN,Online TA,0,2,No Deposit,0,Transient-Party,A,0,2,0
+8464,USA,Online TA,0,1,No Deposit,0,Transient,E,0,1,0
+12437,LBN,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+55646,IRL,Online TA,0,1,No Deposit,0,Transient,D,1,2,0
+31479,URY,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+25611,BEL,Aviation,0,1,No Deposit,0,Transient,A,0,0,0
+82429,ESP,Offline TA/TO,0,1,No Deposit,0,Transient,C,0,0,0
+26072,FRA,Direct,0,0,No Deposit,0,Transient,C,0,1,0
+47343,BEL,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,3,0
+18166,ESP,Offline TA/TO,0,0,No Deposit,0,Transient,C,1,0,0
+3539,PRT,Offline TA/TO,0,1,No Deposit,0,Transient,D,0,0,1
+13110,SWE,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+36994,DZA,Online TA,0,1,No Deposit,0,Transient,F,0,0,0
+70843,PRT,Direct,0,0,Refundable,0,Transient-Party,A,0,0,0
+12087,GBR,Online TA,0,0,No Deposit,0,Transient-Party,D,0,2,0
+27687,USA,Online TA,0,4,No Deposit,0,Transient,D,0,0,1
+46383,AGO,Direct,0,0,No Deposit,0,Transient,D,0,1,1
+15142,PRT,Corporate,0,2,No Deposit,0,Transient-Party,A,1,1,0
+1274,PRT,Corporate,0,0,No Deposit,0,Transient,D,0,1,0
+2922,ITA,Groups,0,2,No Deposit,0,Transient-Party,A,0,0,0
+41523,PRT,Groups,0,0,Non Refund,22,Transient,A,0,0,1
+14150,DEU,Groups,0,2,No Deposit,0,Transient,A,0,0,0
+4376,DEU,Online TA,0,0,No Deposit,0,Transient,E,0,1,1
+27837,LTU,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+2303,ITA,Aviation,0,0,No Deposit,0,Transient,D,0,2,0
+56701,NOR,Online TA,0,1,No Deposit,0,Transient,F,0,0,0
+56937,NLD,Online TA,0,1,No Deposit,0,Transient-Party,A,0,4,0
+5069,CHN,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+3238,BEL,Direct,0,0,No Deposit,0,Transient,E,0,2,1
+1373,GBR,Online TA,0,0,No Deposit,0,Transient,E,1,1,0
+1192,RUS,Online TA,0,1,No Deposit,0,Transient,A,0,2,0
+10224,DEU,Offline TA/TO,0,0,No Deposit,0,Contract,D,0,0,0
+12568,GBR,Direct,0,0,No Deposit,0,Transient-Party,B,0,0,0
+30212,BEL,Aviation,0,1,No Deposit,0,Transient,D,0,0,0
+6758,FRA,Online TA,0,0,No Deposit,0,Transient-Party,D,0,1,0
+33184,PRT,Direct,0,0,No Deposit,0,Group,E,1,0,0
+4187,AGO,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+5888,GBR,Groups,0,3,No Deposit,0,Transient-Party,A,1,0,0
+8398,FRA,Groups,0,0,No Deposit,0,Transient-Party,D,0,0,0
+20566,GBR,Online TA,0,0,No Deposit,0,Transient,A,0,5,0
+11044,NLD,Groups,0,2,No Deposit,0,Transient-Party,A,0,0,0
+13782,MAR,Online TA,0,0,No Deposit,0,Transient,A,0,3,0
+10767,NLD,Online TA,0,2,No Deposit,0,Transient,D,0,2,0
+31979,FRA,Direct,0,0,No Deposit,0,Transient,A,1,2,0
+27854,DZA,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+29457,DEU,Corporate,0,14,No Deposit,0,Transient-Party,A,0,1,0
+82772,GRC,Offline TA/TO,0,1,No Deposit,63,Transient-Party,A,0,0,0
+8509,PRT,Online TA,0,1,No Deposit,0,Transient,D,0,1,1
+19411,CHE,Online TA,0,0,No Deposit,0,Contract,B,0,2,0
+83139,CN,Direct,0,2,No Deposit,0,Transient,C,0,1,0
+7305,SAU,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+61648,DEU,Online TA,0,3,No Deposit,0,Transient-Party,D,0,0,1
+40,DEU,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+43636,FRA,Direct,0,1,No Deposit,0,Transient-Party,G,0,1,0
+6111,BEL,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+21,ITA,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+12939,ESP,Online TA,0,3,No Deposit,0,Transient,A,1,0,0
+38333,IRL,Direct,0,0,No Deposit,0,Transient,D,0,2,1
+12063,ESP,Direct,0,0,No Deposit,0,Transient,G,1,0,0
+75784,IRL,Online TA,0,2,No Deposit,0,Transient-Party,A,0,1,0
+9360,IRL,Groups,0,0,No Deposit,0,Transient-Party,E,0,0,0
+11704,PRT,Online TA,0,3,No Deposit,0,Transient,A,0,0,1
+2930,PRT,Complementary,0,0,No Deposit,0,Transient,A,0,1,1
+343,AUT,Online TA,0,1,No Deposit,0,Transient-Party,D,0,2,0
+21641,CZE,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,0,0
+285,NLD,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+5690,PRT,Offline TA/TO,0,0,No Deposit,223,Transient-Party,A,0,0,1
+3059,NOR,Online TA,0,0,No Deposit,0,Transient,H,0,0,1
+41335,PRT,Online TA,0,0,No Deposit,0,Transient,A,1,4,0
+22840,FRA,Online TA,0,1,No Deposit,0,Contract,A,0,0,0
+7012,CHN,Online TA,0,0,No Deposit,0,Transient,A,1,0,0
+24478,CHE,Online TA,0,1,No Deposit,0,Transient-Party,A,0,1,0
+1635,SWE,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+57453,MAR,Online TA,0,1,No Deposit,0,Transient-Party,B,0,0,1
+2419,ESP,Direct,0,0,No Deposit,0,Transient,F,0,2,0
+17037,AGO,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+11967,PRT,Offline TA/TO,0,0,No Deposit,0,Transient,A,1,2,0
+32260,PRT,Direct,0,0,No Deposit,0,Transient,E,0,3,1
+33329,IRL,Offline TA/TO,0,1,No Deposit,0,Transient,D,0,1,0
+5415,NOR,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,0
+69998,PRT,Groups,0,10,No Deposit,0,Transient-Party,A,0,1,0
+11729,PRT,Groups,0,2,No Deposit,0,Transient-Party,D,0,0,0
+63164,NOR,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+356,FRA,Aviation,0,0,No Deposit,0,Transient,D,0,0,0
+73088,JOR,Groups,0,2,No Deposit,0,Transient-Party,A,0,0,0
+67782,PRT,Direct,0,4,No Deposit,0,Transient,A,0,1,0
+37383,IND,Online TA,0,0,No Deposit,0,Transient,H,0,0,0
+38298,PRY,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+80686,CN,Direct,0,2,No Deposit,0,Transient,E,1,0,0
+74781,BEL,Direct,0,0,No Deposit,0,Transient,G,1,1,0
+2242,IND,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+4805,PRT,Online TA,0,0,No Deposit,0,Transient,G,0,2,1
+4828,PRT,Corporate,0,1,No Deposit,0,Transient-Party,A,0,0,1
+14306,LTU,Online TA,0,0,No Deposit,0,Transient,E,0,1,0
+57973,GBR,Online TA,0,1,No Deposit,0,Transient,A,1,2,0
+12580,BRA,Online TA,0,1,No Deposit,0,Transient,E,1,1,0
+55684,BEL,Offline TA/TO,0,1,No Deposit,0,Transient-Party,E,0,1,0
+35562,ISR,Online TA,0,2,No Deposit,0,Transient,D,0,2,0
+36063,ESP,Online TA,11,1,No Deposit,0,Transient,D,0,2,0
+25464,ITA,Online TA,0,0,No Deposit,0,Transient-Party,B,0,1,0
+38370,ISR,Online TA,0,0,No Deposit,0,Group,A,0,1,0
+1806,ITA,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+70529,LUX,Online TA,0,1,No Deposit,0,Transient,F,0,1,0
+63897,ITA,Offline TA/TO,0,1,No Deposit,44,Group,A,0,0,0
+2187,ESP,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+11178,IRL,Direct,0,0,No Deposit,0,Transient,E,0,1,0
+22471,DEU,Direct,0,0,No Deposit,0,Transient,F,0,2,0
+70020,GBR,Online TA,0,1,No Deposit,0,Transient,D,0,3,0
+76667,IRL,Direct,0,4,No Deposit,0,Transient,A,0,0,1
+69051,GBR,Online TA,0,1,No Deposit,0,Transient,C,0,1,1
+1884,ALB,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+24721,PRT,Online TA,0,0,No Deposit,0,Contract,B,1,0,0
+58391,USA,Direct,0,1,No Deposit,0,Transient,F,1,1,0
+52689,ESP,Offline TA/TO,0,1,No Deposit,0,Transient-Party,D,0,0,0
+10779,GBR,Direct,0,2,No Deposit,0,Transient,E,0,4,1
+12374,MAR,Direct,0,1,No Deposit,0,Transient-Party,B,0,0,0
+2149,FRA,Online TA,0,0,No Deposit,0,Transient-Party,A,1,3,0
+27994,PRT,Online TA,0,0,No Deposit,0,Transient,H,0,1,0
+6726,SAU,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+38885,CHE,Online TA,0,0,No Deposit,0,Transient,B,0,1,0
+70143,GBR,Groups,0,6,No Deposit,0,Transient-Party,A,0,1,0
+388,ESP,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+52652,GBR,Online TA,0,0,No Deposit,0,Transient,F,1,0,0
+31123,AUS,Direct,0,0,No Deposit,0,Transient,A,0,1,0
+59549,NLD,Direct,0,1,No Deposit,0,Transient,D,0,0,0
+26670,RUS,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,1
+13434,AUS,Direct,0,0,No Deposit,0,Transient,A,1,1,0
+4394,BEL,Online TA,0,0,No Deposit,0,Contract,B,0,1,0
+57282,PRT,Online TA,4,2,No Deposit,0,Transient,A,0,4,0
+10393,AUT,Online TA,0,3,No Deposit,0,Transient,A,0,0,1
+13004,IRN,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+534,MEX,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+25553,ARE,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+24531,PRT,Direct,0,1,No Deposit,0,Transient,H,1,1,0
+28707,CHE,Groups,0,2,No Deposit,0,Transient-Party,A,0,0,0
+40430,FIN,Direct,0,0,No Deposit,0,Transient,A,1,0,0
+2058,ESP,Direct,0,4,No Deposit,0,Transient,A,0,1,0
+12676,PRT,Corporate,0,2,No Deposit,0,Contract,A,0,0,0
+75107,PRT,Online TA,0,2,No Deposit,0,Transient,E,0,1,0
+3321,PRT,Online TA,0,0,No Deposit,0,Transient,F,0,1,0
+30689,GBR,Direct,0,1,No Deposit,0,Transient-Party,E,0,0,0
+61713,ARM,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+76547,GBR,Offline TA/TO,1,0,No Deposit,0,Transient,A,0,0,1
+32217,ITA,Offline TA/TO,0,1,No Deposit,111,Transient-Party,A,0,0,0
+40609,FIN,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+38963,FRA,Online TA,0,0,No Deposit,0,Transient-Party,B,0,0,0
+20341,CHE,Direct,0,0,No Deposit,0,Transient,E,0,3,0
+69299,POL,Online TA,0,1,No Deposit,0,Transient,G,1,1,0
+149,DEU,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+4802,NLD,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+66883,DEU,Offline TA/TO,0,2,No Deposit,0,Transient-Party,D,0,1,0
+9217,POL,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+15578,MAR,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+3429,CHE,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+21725,AUT,Groups,0,1,No Deposit,0,Transient-Party,G,0,0,0
+80818,FRA,Online TA,0,1,No Deposit,0,Transient,B,0,2,1
+2463,RUS,Online TA,0,0,No Deposit,0,Transient-Party,B,0,1,0
+54384,NLD,Online TA,0,0,No Deposit,0,Transient-Party,E,0,3,0
+45214,GBR,Complementary,0,0,No Deposit,0,Transient,A,0,1,0
+53015,NGA,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+6521,NLD,Online TA,0,0,No Deposit,0,Transient,G,0,1,0
+8256,PRT,Corporate,0,0,No Deposit,0,Transient,A,0,2,1
+49174,NOR,Direct,0,6,No Deposit,0,Transient,A,0,2,0
+37101,PRT,Complementary,0,1,No Deposit,0,Transient,A,1,2,0
+12561,NLD,Online TA,0,1,No Deposit,0,Transient-Party,B,0,3,0
+64534,ESP,Online TA,0,4,No Deposit,0,Transient,A,0,0,1
+5991,PRT,Groups,0,0,Non Refund,20,Transient,A,0,0,1
+36230,DNK,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+64731,RUS,Groups,0,0,No Deposit,0,Transient-Party,E,0,0,0
+32675,BEL,Online TA,0,0,No Deposit,0,Transient,F,1,2,0
+40696,FRA,Online TA,0,1,No Deposit,0,Transient-Party,D,0,1,0
+30108,ESP,Online TA,0,4,No Deposit,0,Transient,D,0,2,0
+2381,PRT,Online TA,0,1,No Deposit,0,Transient,G,0,2,1
+74873,IRL,Groups,0,1,No Deposit,0,Transient-Party,D,0,3,0
+39917,ARG,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+7606,ISR,Online TA,0,0,No Deposit,0,Transient,G,1,1,0
+270,FRA,Online TA,0,1,No Deposit,0,Transient,D,0,1,1
+44133,LBY,Groups,0,0,No Deposit,0,Transient,A,0,0,0
+57342,BEL,Online TA,0,1,No Deposit,0,Transient-Party,B,0,1,0
+62288,NLD,Online TA,0,0,No Deposit,0,Contract,F,1,1,0
+78853,IRL,Offline TA/TO,0,1,No Deposit,0,Transient,A,0,3,0
+19362,PER,Groups,0,2,No Deposit,0,Transient-Party,A,0,0,0
+42575,SRB,Offline TA/TO,0,1,No Deposit,63,Transient-Party,A,0,0,0
+22631,BRA,Online TA,0,0,No Deposit,0,Transient-Party,D,0,0,0
+49937,USA,Online TA,0,2,No Deposit,0,Transient,A,0,1,1
+1501,FRA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,B,0,1,0
+10513,PRT,Online TA,1,0,No Deposit,0,Contract,D,0,2,1
+15074,MYS,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+59508,AGO,Online TA,0,0,No Deposit,0,Transient,F,0,1,0
+27077,CHE,Online TA,0,1,No Deposit,0,Transient,D,0,2,0
+11739,ESP,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+75726,DEU,Online TA,0,2,No Deposit,0,Transient,E,0,4,0
+36781,FIN,Online TA,0,2,No Deposit,0,Transient,F,0,3,0
+43525,COL,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+826,TUR,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+5406,CHN,Groups,0,0,No Deposit,34,Transient-Party,E,0,0,0
+27462,BEL,Online TA,0,0,No Deposit,0,Transient,E,1,1,0
+47072,BEL,Aviation,0,1,No Deposit,0,Transient,E,0,0,0
+32714,JPN,Direct,0,3,No Deposit,0,Transient,D,0,0,0
+42894,PRT,Online TA,0,2,No Deposit,0,Transient,H,0,0,0
+1237,NLD,Online TA,0,2,No Deposit,0,Transient,A,0,0,1
+80181,KOR,Online TA,0,0,No Deposit,0,Transient-Party,A,1,0,0
+13233,ESP,Offline TA/TO,0,2,No Deposit,0,Transient,F,0,0,0
+34792,PRT,Direct,0,2,No Deposit,0,Transient,F,0,0,1
+8081,DEU,Online TA,0,0,No Deposit,0,Transient,D,0,3,0
+24630,PRT,Groups,1,2,Non Refund,0,Transient,A,0,0,1
+19414,MYS,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+216,PRT,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+17179,PRT,Online TA,0,8,No Deposit,0,Transient,A,0,0,0
+12409,LTU,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+109,GBR,Online TA,0,0,No Deposit,0,Transient,A,0,2,0
+33242,CHE,Groups,0,0,No Deposit,0,Transient-Party,A,0,1,0
+59936,PER,Direct,0,0,No Deposit,0,Transient-Party,F,0,2,0
+33829,IRL,Online TA,0,1,No Deposit,0,Transient,F,0,2,0
+62225,POL,Online TA,0,0,No Deposit,0,Transient,G,0,2,0
+16042,ISR,Online TA,0,0,No Deposit,0,Contract,A,0,2,0
+16841,BEL,Direct,0,1,No Deposit,0,Transient,A,1,0,0
+3563,IRL,Online TA,0,1,No Deposit,0,Transient,B,0,3,1
+373,PRT,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+16109,GBR,Online TA,0,3,No Deposit,0,Transient,C,0,2,0
+30470,DEU,Online TA,0,0,No Deposit,0,Transient,A,0,4,1
+1448,ZAF,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+4326,FRA,Online TA,0,1,No Deposit,0,Transient,D,0,0,0
+78458,TUR,Online TA,0,2,No Deposit,0,Transient,A,0,1,0
+61232,AGO,Direct,0,1,No Deposit,0,Transient,E,0,1,0
+5817,GBR,Online TA,0,3,No Deposit,0,Transient,E,0,2,1
+26943,ROU,Online TA,0,3,No Deposit,0,Transient,A,0,2,0
+50241,AND,Online TA,0,0,No Deposit,0,Transient,C,0,1,1
+55055,VEN,Corporate,0,1,No Deposit,0,Transient,A,0,0,0
+51579,AUT,Groups,0,1,No Deposit,0,Transient-Party,D,0,1,0
+2447,CN,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+16548,GRC,Online TA,0,0,No Deposit,0,Transient,A,0,3,0
+3594,IRL,Direct,0,1,No Deposit,0,Transient,E,0,1,0
+5463,LVA,Offline TA/TO,0,0,No Deposit,0,Contract,E,0,1,0
+11495,ITA,Direct,0,0,No Deposit,0,Transient-Party,A,0,0,0
+28733,ECU,Online TA,0,0,No Deposit,0,Transient,F,0,0,0
+1266,LUX,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+33677,PRT,Direct,0,1,No Deposit,0,Transient,G,0,1,0
+15387,MAR,Online TA,0,0,No Deposit,0,Transient,F,0,2,0
+5028,PRT,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+2458,FRA,Direct,0,0,No Deposit,0,Transient,D,0,1,0
+28817,FRA,Online TA,0,1,No Deposit,0,Transient,D,1,2,0
+67314,SRB,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+28370,SWE,Online TA,0,0,No Deposit,0,Transient,E,1,0,0
+38569,PRT,Corporate,2,0,No Deposit,0,Transient-Party,A,0,1,0
+29642,CHE,Online TA,0,1,No Deposit,0,Transient,B,0,2,1
+6996,BRA,Online TA,0,0,No Deposit,0,Group,D,0,2,0
+41657,GBR,Online TA,0,0,No Deposit,0,Transient-Party,B,0,0,1
+8138,GBR,Offline TA/TO,0,0,No Deposit,0,Contract,D,0,3,0
+15604,BEL,Online TA,0,0,No Deposit,0,Contract,A,0,1,0
+38905,GBR,Groups,0,2,No Deposit,113,Transient-Party,D,0,0,0
+1015,AGO,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+5756,GBR,Online TA,0,1,No Deposit,0,Transient,D,0,1,1
+8297,ZAF,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+1988,CHE,Offline TA/TO,0,2,No Deposit,0,Contract,E,0,1,0
+1016,ESP,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,2,0
+13954,BIH,Online TA,0,0,No Deposit,0,Transient,D,0,0,1
+4500,GBR,Offline TA/TO,0,2,No Deposit,0,Transient,A,0,2,0
+53872,ROU,Online TA,0,1,No Deposit,0,Transient,A,0,1,1
+21998,PRT,Offline TA/TO,0,4,No Deposit,0,Transient,D,0,1,0
+73722,GBR,Online TA,0,1,No Deposit,0,Group,A,0,0,0
+63935,USA,Direct,0,2,No Deposit,0,Transient,F,0,0,1
+54024,ESP,Online TA,0,1,No Deposit,0,Transient-Party,D,1,1,0
+28576,CHN,Online TA,0,1,No Deposit,0,Transient,A,0,2,0
+44549,BEL,Online TA,0,0,No Deposit,0,Transient-Party,G,0,0,0
+17885,GBR,Online TA,0,0,No Deposit,0,Transient,C,0,1,1
+3222,NOR,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+67495,BEL,Direct,0,0,No Deposit,0,Transient,E,1,2,0
+38269,GBR,Groups,0,2,Non Refund,0,Transient-Party,A,1,0,0
+4150,USA,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+66051,EST,Online TA,0,0,No Deposit,0,Transient,E,1,2,0
+37230,PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,E,1,1,0
+2407,ESP,Online TA,0,0,No Deposit,0,Transient-Party,E,1,0,0
+68477,DNK,Online TA,0,0,No Deposit,0,Transient-Party,A,0,2,0
+65185,PRT,Offline TA/TO,1,0,No Deposit,0,Transient-Party,A,0,1,1
+51505,PRT,Offline TA/TO,1,0,No Deposit,0,Transient,A,0,1,0
+2708,SVN,Online TA,0,0,No Deposit,0,Transient-Party,A,0,2,0
+82697,LUX,Direct,0,1,No Deposit,0,Transient,E,0,0,0
+8573,HRV,Aviation,0,0,No Deposit,0,Transient,D,0,0,0
+25518,BEL,Online TA,0,0,No Deposit,0,Contract,A,0,0,0
+29977,POL,Online TA,0,0,No Deposit,0,Contract,A,0,1,0
+66246,PRT,Corporate,0,2,No Deposit,0,Transient-Party,G,0,0,0
+34676,RUS,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+36725,FRA,Offline TA/TO,0,1,No Deposit,0,Transient-Party,D,0,0,0
+62507,LBN,Groups,0,4,No Deposit,0,Transient-Party,A,0,0,0
+35204,PRT,Complementary,0,1,No Deposit,0,Transient,D,0,0,0
+53071,IND,Direct,0,0,No Deposit,0,Transient,A,0,0,0
+3415,IRL,Groups,0,0,No Deposit,0,Transient-Party,D,0,0,0
+19530,ITA,Direct,0,0,No Deposit,0,Group,A,0,0,0
+46296,PRT,Online TA,0,3,No Deposit,0,Transient,A,2,3,0
+62148,CRI,Online TA,0,1,No Deposit,0,Transient,A,0,2,0
+4000,PRT,Corporate,0,4,No Deposit,0,Contract,A,0,0,0
+5943,BEL,Online TA,0,0,No Deposit,0,Transient,D,0,2,1
+24525,PRT,Groups,0,0,Non Refund,14,Transient,A,0,0,1
+19814,GBR,Online TA,0,1,No Deposit,0,Transient,A,0,3,0
+3441,PRT,Online TA,0,0,No Deposit,0,Transient,E,0,2,0
+13441,PRT,Offline TA/TO,0,2,No Deposit,0,Transient-Party,A,0,0,1
+1837,FIN,Direct,0,1,No Deposit,0,Transient,E,1,0,0
+14091,PRT,Direct,0,0,Non Refund,0,Transient,A,0,0,1
+79305,ARE,Online TA,0,0,No Deposit,0,Transient,B,0,0,1
+998,GBR,Groups,0,0,No Deposit,0,Transient-Party,D,1,0,0
+50999,BRA,Online TA,0,1,No Deposit,0,Transient,B,0,1,0
+248,ESP,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+8545,MAR,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+74024,MOZ,Direct,0,1,No Deposit,0,Transient-Party,A,0,0,0
+58310,GBR,Direct,0,4,No Deposit,0,Transient,F,0,0,0
+39581,FRA,Online TA,0,0,No Deposit,0,Transient,H,1,1,0
+10684,ESP,Offline TA/TO,0,1,No Deposit,0,Transient,A,1,0,0
+22451,PRT,Complementary,0,1,No Deposit,0,Transient,E,0,0,1
+10002,BEL,Online TA,0,1,No Deposit,0,Transient,D,0,1,0
+74346,SVK,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+20295,GBR,Online TA,0,1,No Deposit,0,Transient-Party,A,0,2,0
+33591,DEU,Online TA,0,3,No Deposit,0,Transient,F,0,0,0
+75169,SVK,Online TA,0,0,No Deposit,0,Transient,A,1,1,0
+45954,FIN,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+16099,PRT,Complementary,0,0,No Deposit,0,Transient,F,0,1,0
+4613,GBR,Groups,0,0,No Deposit,0,Transient-Party,D,0,1,0
+43836,IRL,Offline TA/TO,0,0,No Deposit,0,Group,A,0,2,0
+55414,PRT,Online TA,0,3,No Deposit,0,Transient,A,0,2,1
+1023,LUX,Groups,0,0,No Deposit,0,Transient-Party,A,0,0,0
+61048,ESP,Direct,0,0,No Deposit,0,Transient,A,0,5,0
+71956,USA,Online TA,0,0,No Deposit,0,Group,G,0,0,0
+36709,CHL,Online TA,0,2,No Deposit,0,Transient,D,0,1,1
+29897,ESP,Direct,0,1,No Deposit,0,Transient,G,0,1,1
+40278,ISR,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+77797,AUT,Direct,0,0,No Deposit,0,Transient,D,1,1,0
+68925,CMR,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+33721,PRT,Complementary,0,2,No Deposit,0,Transient,D,0,2,0
+1958,DEU,Online TA,0,0,No Deposit,0,Transient,A,1,0,0
+3888,BRA,Online TA,0,2,No Deposit,0,Transient,A,0,2,0
+36722,CHE,Online TA,0,5,No Deposit,0,Transient,D,0,0,1
+50930,GBR,Online TA,0,0,No Deposit,0,Transient-Party,E,1,1,0
+129,CHE,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+47234,PRT,Direct,0,3,No Deposit,0,Transient-Party,A,0,3,0
+833,PRT,Corporate,0,1,No Deposit,0,Transient,A,0,0,1
+45046,TUR,Groups,0,3,No Deposit,0,Transient-Party,A,0,2,0
+80748,CZE,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+13502,SRB,Offline TA/TO,0,2,No Deposit,0,Transient-Party,A,0,0,0
+17594,PRT,Offline TA/TO,0,0,No Deposit,0,Transient,E,0,1,0
+1033,DEU,Direct,0,2,No Deposit,0,Transient,A,0,1,0
+952,ESP,Direct,0,0,No Deposit,0,Transient,F,0,0,1
+46212,GBR,Online TA,0,3,No Deposit,0,Transient,D,0,2,1
+148,PRT,Offline TA/TO,1,0,No Deposit,0,Transient-Party,A,0,2,1
+18158,FRA,Direct,0,0,No Deposit,0,Transient-Party,D,0,3,0
+3908,FRA,Direct,0,0,No Deposit,0,Transient,D,0,0,0
+6761,BEL,Online TA,0,0,No Deposit,0,Transient,E,0,3,0
+18434,PRT,Offline TA/TO,0,0,Non Refund,8,Transient,A,0,0,1
+4568,POL,Online TA,0,1,No Deposit,0,Transient,B,0,3,1
+69555,GBR,Direct,0,0,No Deposit,0,Transient,B,0,0,0
+79193,PRT,Offline TA/TO,0,2,No Deposit,0,Transient,B,0,4,0
+25479,ITA,Online TA,0,0,No Deposit,0,Transient,E,1,3,0
+6348,BRA,Direct,0,0,No Deposit,0,Transient,A,0,1,0
+72186,PRT,Groups,0,0,No Deposit,0,Transient,E,0,1,0
+14748,FRA,Groups,0,0,No Deposit,259,Transient-Party,A,0,1,0
+30183,PRT,Direct,0,2,No Deposit,0,Transient-Party,B,0,1,1
+62643,DEU,Direct,0,0,No Deposit,0,Transient-Party,A,0,3,0
+22747,PRT,Complementary,1,0,No Deposit,0,Transient,A,0,0,0
+35399,ROU,Online TA,0,0,No Deposit,0,Transient,A,1,0,0
+6505,PRT,Direct,0,0,No Deposit,0,Transient,G,0,0,0
+25933,SVN,Direct,0,0,No Deposit,0,Transient,C,1,1,0
+48017,CN,Direct,0,0,No Deposit,0,Transient,E,0,2,0
+18718,POL,Online TA,0,0,No Deposit,0,Transient,A,1,3,0
+54581,PRT,Corporate,1,1,No Deposit,0,Transient,A,0,0,0
+55174,DEU,Online TA,0,1,No Deposit,0,Transient,A,1,3,0
+74422,USA,Online TA,0,2,No Deposit,0,Transient,G,1,1,0
+2557,DEU,Online TA,0,1,No Deposit,0,Transient,A,1,0,0
+3200,PRT,Direct,0,0,No Deposit,0,Transient-Party,A,1,1,0
+80207,BRA,Direct,0,4,No Deposit,0,Transient,D,0,0,0
+4607,DNK,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+41471,RUS,Online TA,0,0,No Deposit,0,Transient,F,1,0,0
+24366,PRT,Offline TA/TO,0,0,No Deposit,27,Transient-Party,A,0,0,0
+41655,PRT,Direct,0,1,No Deposit,0,Transient-Party,B,0,1,0
+37448,SVN,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+7093,NOR,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1,0
+27399,PRT,Groups,0,3,No Deposit,0,Transient-Party,A,0,0,0
+49862,NLD,Direct,0,2,No Deposit,0,Transient,G,0,0,0
+14625,ESP,Corporate,0,0,No Deposit,0,Transient-Party,A,0,1,0
+5348,LUX,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+30004,NOR,Online TA,0,0,No Deposit,0,Contract,A,0,1,0
+15410,POL,Offline TA/TO,0,1,No Deposit,0,Transient,D,0,1,0
+1582,SWE,Online TA,0,0,No Deposit,0,Transient,G,0,1,0
+39028,SGP,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+1077,CHL,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+32816,DEU,Direct,0,1,No Deposit,0,Transient,E,1,3,0
+12363,PRT,Online TA,0,0,No Deposit,0,Transient-Party,A,1,2,0
+1738,GBR,Offline TA/TO,0,0,No Deposit,0,Transient-Party,D,0,1,0
+33755,SGP,Online TA,0,0,No Deposit,0,Transient,D,0,0,1
+18375,PRT,Groups,0,0,No Deposit,0,Transient,A,1,0,0
+74510,CHE,Direct,0,0,No Deposit,0,Transient,G,0,2,0
+44443,ARG,Offline TA/TO,0,0,No Deposit,0,Transient,A,1,1,0
+14757,ROU,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+7265,NLD,Online TA,0,0,No Deposit,0,Transient,D,1,2,0
+23834,NLD,Online TA,0,1,No Deposit,0,Transient,A,1,1,0
+43274,PAK,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+39544,FRA,Online TA,0,0,No Deposit,0,Transient,G,1,0,0
+44817,EST,Online TA,0,1,No Deposit,0,Transient,A,0,1,0
+28366,DEU,Direct,0,1,No Deposit,0,Transient,B,0,1,0
+49793,ISR,Direct,0,2,No Deposit,0,Transient,A,0,1,0
+2472,PRT,Offline TA/TO,0,0,Non Refund,24,Transient,A,0,0,1
+3229,BLR,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0,0
+742,PRT,Offline TA/TO,0,2,No Deposit,0,Transient,A,0,0,1
+21066,PRT,Direct,0,1,No Deposit,0,Transient,F,0,2,0
+71407,GBR,Groups,0,1,No Deposit,6,Transient-Party,D,0,0,0
+40787,PRT,Direct,0,2,No Deposit,0,Transient,G,0,1,0
+61453,MAR,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+69535,LTU,Online TA,0,0,No Deposit,0,Transient,G,1,0,0
+32430,PRT,Offline TA/TO,1,1,No Deposit,0,Transient-Party,A,0,0,1
+25153,PRT,Corporate,1,2,No Deposit,0,Transient,A,0,0,0
+9367,FRA,Direct,0,2,No Deposit,0,Transient,A,0,2,0
+31130,CN,Online TA,0,0,No Deposit,0,Transient-Party,D,0,1,0
+1849,PRT,Corporate,0,0,No Deposit,0,Transient,D,0,0,1
+17628,NGA,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,0,0
+55582,PRT,Online TA,0,0,No Deposit,0,Contract,D,1,0,0
+66768,BEL,Online TA,0,0,No Deposit,0,Contract,F,0,0,0
+16759,JPN,Online TA,0,0,No Deposit,0,Transient,F,0,0,0
+1294,GBR,Online TA,0,0,No Deposit,0,Transient,G,0,1,0
+27208,PRT,Direct,0,0,No Deposit,0,Transient-Party,E,0,0,0
+8069,GBR,Groups,0,1,Refundable,150,Transient-Party,A,0,0,0
+2122,FRA,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+75415,MEX,Corporate,0,0,No Deposit,0,Transient-Party,A,0,1,0
+44968,GBR,Online TA,0,2,No Deposit,0,Transient,C,0,2,0
+50152,IND,Online TA,0,0,No Deposit,0,Transient,G,1,1,0
+4757,FRA,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+8600,BRA,Direct,0,1,No Deposit,0,Transient,E,0,3,0
+79624,ISR,Groups,0,1,No Deposit,0,Transient,A,0,1,0
+63244,AUT,Online TA,0,0,No Deposit,0,Transient-Party,B,0,2,1
+5508,GBR,Online TA,0,0,No Deposit,0,Transient,H,0,0,1
+67339,LVA,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+25094,PRT,Offline TA/TO,0,4,No Deposit,0,Transient-Party,A,0,2,1
+64171,DEU,Corporate,0,0,No Deposit,0,Transient,D,0,0,0
+14186,USA,Online TA,0,3,No Deposit,0,Transient,D,0,0,1
+47137,PRT,Groups,0,0,No Deposit,0,Transient,D,0,1,0
+2550,ZAF,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+5564,CHN,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+5093,PRT,Online TA,0,0,No Deposit,0,Transient-Party,D,0,0,1
+8785,GBR,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,2,0
+70831,NOR,Online TA,0,1,No Deposit,0,Transient,G,0,0,1
+29581,RUS,Online TA,0,2,No Deposit,0,Transient,G,0,1,0
+62151,SWE,Online TA,0,2,No Deposit,0,Transient,A,0,1,1
+2346,IRL,Groups,0,1,No Deposit,0,Transient-Party,A,0,1,0
+23353,AUS,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,1,0
+10572,CHE,Online TA,0,1,No Deposit,0,Transient,B,0,1,0
+2486,PRT,Online TA,0,2,No Deposit,0,Transient,E,0,5,0
+16326,FIN,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,2,0
+2432,NLD,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+43556,FIN,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+11575,IRL,Offline TA/TO,0,1,No Deposit,0,Transient,E,0,0,0
+68103,CHN,Online TA,0,3,No Deposit,0,Transient,D,0,2,0
+83554,BEL,Groups,0,0,No Deposit,0,Transient-Party,A,0,1,0
+51836,NLD,Groups,0,1,No Deposit,0,Transient-Party,A,2,0,0
+1271,USA,Online TA,0,1,No Deposit,0,Transient,F,0,2,0
+44855,GBR,Online TA,0,6,No Deposit,0,Transient,A,0,1,1
+49679,CHE,Direct,0,0,No Deposit,0,Transient-Party,B,0,0,0
+80250,FRA,Online TA,0,0,No Deposit,0,Transient,B,0,3,0
+35016,ESP,Offline TA/TO,0,3,No Deposit,0,Transient,C,1,3,0
+43474,NLD,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,2,0
+17440,PRT,Corporate,0,3,No Deposit,0,Transient-Party,A,0,0,1
+20656,NOR,Online TA,0,1,No Deposit,0,Transient-Party,A,0,1,0
+16360,BRA,Online TA,0,2,No Deposit,0,Transient,E,0,2,0
+6742,AGO,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+75709,FRA,Online TA,0,1,No Deposit,0,Transient-Party,B,0,2,0
+58688,PRT,Direct,0,0,No Deposit,0,Transient,F,2,1,0
+73473,USA,Online TA,0,0,No Deposit,0,Transient,A,0,5,0
+15243,SAU,Online TA,0,1,No Deposit,0,Transient,B,0,0,1
+35442,DEU,Online TA,0,0,No Deposit,0,Transient-Party,A,0,5,0
+36453,FRA,Online TA,0,1,No Deposit,0,Group,B,0,2,0
+34628,BRA,Online TA,0,0,No Deposit,0,Group,D,0,1,0
+27662,FRA,Corporate,0,0,No Deposit,0,Transient-Party,A,0,1,0
+80884,PHL,Online TA,0,0,No Deposit,0,Transient,E,0,2,0
+1342,ITA,Offline TA/TO,0,0,No Deposit,77,Transient-Party,A,0,0,0
+10802,PRT,Online TA,0,1,No Deposit,0,Transient,G,0,0,0
+17559,GBR,Online TA,0,0,No Deposit,0,Transient-Party,D,0,0,1
+31351,ITA,Direct,0,1,No Deposit,0,Transient,G,0,4,0
+53282,PRT,Direct,0,0,No Deposit,0,Contract,A,0,1,0
+4385,PRT,Direct,1,0,No Deposit,0,Transient,D,0,0,1
+48617,AUS,Online TA,0,0,No Deposit,0,Transient,A,1,2,0
+468,PRT,Offline TA/TO,0,0,Non Refund,0,Transient-Party,A,0,0,1
+58394,SLV,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+13315,AUT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+5209,BEL,Online TA,0,0,No Deposit,0,Transient,F,0,1,0
+9258,BRA,Direct,0,0,No Deposit,0,Transient-Party,A,0,4,0
+74769,ESP,Offline TA/TO,1,0,No Deposit,0,Transient,D,0,0,0
+66526,IRN,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,0
+14802,KOR,Online TA,0,0,No Deposit,0,Transient,A,0,1,1
+30071,ESP,Direct,0,1,No Deposit,0,Transient,E,1,0,0
+18148,ROU,Groups,0,4,No Deposit,0,Transient,A,0,0,0
+32882,TWN,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+82194,IRL,Online TA,0,3,No Deposit,0,Transient,D,0,1,1
+8779,PRT,Online TA,0,2,No Deposit,0,Transient-Party,A,0,2,1
+393,ARG,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+25823,DEU,Online TA,1,0,No Deposit,0,Transient,D,0,0,1
+4747,FRA,Online TA,0,0,No Deposit,0,Transient,H,0,1,0
+908,KOR,Online TA,0,0,No Deposit,0,Transient,F,0,0,0
+33953,FRA,Online TA,0,1,No Deposit,0,Transient,G,0,0,0
+15017,GBR,Offline TA/TO,0,0,No Deposit,0,Transient,E,1,1,0
+17880,BRA,Direct,0,0,No Deposit,0,Transient,G,0,0,1
+27639,IRL,Online TA,0,1,No Deposit,0,Transient,A,0,4,0
+80280,PRT,Online TA,0,3,No Deposit,0,Transient-Party,A,0,1,0
+4637,BRA,Online TA,0,0,No Deposit,0,Transient,F,0,2,0
+39434,CHE,Online TA,0,0,No Deposit,0,Transient-Party,A,0,1,1
+18163,PRT,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,1,1
+51223,ROU,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+31441,PRT,Groups,0,1,No Deposit,0,Transient-Party,E,0,0,0
+53223,CHE,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+80140,PRT,Direct,0,0,No Deposit,0,Transient,E,0,4,1
+6663,PRT,Aviation,0,0,No Deposit,0,Transient,A,0,2,0
+57555,CHE,Online TA,0,2,No Deposit,0,Transient,A,0,1,0
+3275,POL,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+17351,COL,Direct,0,0,No Deposit,0,Transient,E,0,0,0
+249,PRT,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+524,DEU,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+11833,BEL,Direct,0,1,No Deposit,0,Transient,G,1,1,0
+43018,PRT,Online TA,0,0,No Deposit,0,Transient,E,0,4,0
+5171,FRA,Online TA,0,4,No Deposit,0,Transient,A,0,0,1
+29821,LBN,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+50371,GBR,Groups,0,5,No Deposit,0,Transient-Party,A,1,0,0
+3643,ISR,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+48298,FRA,Online TA,0,0,No Deposit,0,Transient,H,0,0,1
+20550,USA,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+53606,MAR,Online TA,0,0,No Deposit,0,Transient,A,0,3,1
+48468,USA,Online TA,0,5,No Deposit,0,Transient,A,0,2,0
+8744,RUS,Groups,0,0,No Deposit,0,Transient-Party,A,0,1,0
+43641,SVN,Groups,0,1,No Deposit,0,Transient-Party,A,0,0,0
+11006,BEL,Online TA,0,0,No Deposit,0,Transient,B,0,0,0
+26555,NLD,Online TA,0,0,No Deposit,0,Transient,E,1,2,0
+68980,BRA,Direct,0,0,No Deposit,0,Transient,E,0,3,0
+2936,CN,Groups,0,0,Non Refund,0,Transient,A,0,0,1
+21823,DNK,Online TA,0,0,No Deposit,0,Transient-Party,F,0,2,0
+785,PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,B,0,0,0
+63875,IND,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0,0
+195,PRT,Direct,0,0,No Deposit,0,Transient,A,0,2,0
+41694,PRT,Groups,0,0,No Deposit,13,Transient-Party,A,0,1,0
+20065,ESP,Aviation,0,2,No Deposit,0,Transient,D,0,0,0
+21042,CHE,Corporate,0,0,No Deposit,0,Transient-Party,A,0,0,0
+65909,ESP,Direct,0,3,No Deposit,0,Transient,F,1,3,0
+48904,BEL,Online TA,0,1,No Deposit,0,Transient,B,0,0,0
+15911,USA,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+81965,DEU,Offline TA/TO,0,1,No Deposit,99,Transient-Party,A,0,0,0
+22403,ESP,Online TA,0,0,No Deposit,0,Transient,C,0,0,0
+60834,JPN,Direct,0,1,No Deposit,0,Transient,D,0,1,0
+38800,CHN,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+18775,PRT,Complementary,0,0,No Deposit,0,Transient,B,0,2,0
+35102,BRA,Online TA,0,2,No Deposit,0,Transient,D,0,3,0
+7224,ARG,Offline TA/TO,0,0,No Deposit,0,Contract,A,0,0,0
+34405,ESP,Online TA,0,1,No Deposit,0,Transient,C,0,1,0
+70999,GBR,Online TA,0,0,No Deposit,0,Transient,H,1,0,0
+24277,GNB,Direct,0,0,No Deposit,0,Transient,A,0,0,0
+57394,RUS,Online TA,0,0,No Deposit,0,Transient,G,0,2,1
+63408,DEU,Online TA,0,1,No Deposit,0,Transient-Party,B,1,0,0
+5370,HUN,Online TA,0,0,No Deposit,0,Transient,F,0,1,0
+13699,CN,Online TA,0,0,No Deposit,0,Transient,E,0,2,0
+441,PRT,Offline TA/TO,0,0,Non Refund,79,Transient,A,0,0,1
+75505,BRA,Complementary,0,3,No Deposit,0,Transient,E,0,2,0
+39865,FRA,Online TA,0,0,No Deposit,0,Transient,E,0,4,0
+3806,FRA,Offline TA/TO,0,1,No Deposit,43,Transient-Party,A,0,2,0
+51650,PRT,Online TA,0,1,No Deposit,0,Contract,A,0,1,0
+13559,BEL,Online TA,0,2,No Deposit,0,Transient,A,0,0,1
+72769,TWN,Direct,0,1,No Deposit,0,Transient,A,0,0,0
+2695,FRA,Direct,0,0,No Deposit,0,Transient,A,0,1,0
+3217,BRA,Corporate,0,1,No Deposit,15,Transient-Party,A,0,0,0
+33896,PRT,Corporate,0,1,No Deposit,0,Transient-Party,A,1,2,0
+39279,POL,Online TA,0,1,No Deposit,0,Transient-Party,G,0,1,0
+45405,IND,Online TA,0,0,No Deposit,0,Transient,E,1,1,0
+19228,PRT,Complementary,0,0,No Deposit,0,Transient,E,0,1,1
+33867,MOZ,Offline TA/TO,0,4,No Deposit,0,Transient-Party,D,0,0,0
+42472,GBR,Groups,0,1,No Deposit,0,Transient-Party,A,0,2,0
+11501,COL,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+65848,MOZ,Offline TA/TO,0,1,No Deposit,36,Transient-Party,A,0,0,0
+48705,FRA,Online TA,0,1,No Deposit,0,Contract,A,0,1,0
+23360,CZE,Corporate,0,1,No Deposit,0,Transient-Party,A,0,0,0
+51170,IRL,Online TA,0,5,No Deposit,0,Transient,A,0,1,0
+10083,VEN,Online TA,0,0,No Deposit,0,Transient,H,0,0,1
+4858,AUT,Direct,0,0,No Deposit,0,Transient-Party,D,1,0,0
+68028,DEU,Direct,0,1,No Deposit,0,Transient,F,0,0,0
+6865,ESP,Offline TA/TO,0,1,No Deposit,0,Transient,D,0,1,0
+48352,PRT,Direct,0,0,No Deposit,0,Transient,A,0,4,1
+77493,HRV,Online TA,0,2,No Deposit,0,Transient,D,0,1,1
+16,BRA,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,1,0
+9445,FRA,Offline TA/TO,0,2,No Deposit,0,Transient,A,0,1,0
+150,POL,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,0
+33135,GBR,Offline TA/TO,0,2,No Deposit,0,Contract,A,0,2,0
+74380,DZA,Online TA,0,2,No Deposit,0,Transient,A,0,2,1
+49434,CHN,Online TA,0,4,No Deposit,0,Transient,A,0,0,1
+13721,PRT,Offline TA/TO,0,0,No Deposit,0,Transient-Party,E,0,1,1
+15164,HRV,Direct,0,0,No Deposit,0,Transient,A,0,1,0
+4022,NLD,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+73237,DEU,Offline TA/TO,0,1,No Deposit,0,Contract,A,0,1,0
+20108,GBR,Online TA,0,0,No Deposit,0,Transient,G,0,1,1
+33404,PRT,Complementary,0,2,No Deposit,0,Transient,A,1,0,0
+55794,LVA,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,1,0
+17964,PRT,Online TA,0,3,No Deposit,0,Transient,E,1,2,0
+66590,COL,Online TA,0,0,No Deposit,0,Transient,B,0,2,0
+18594,PRT,Complementary,0,0,No Deposit,0,Transient,D,0,2,0
+8716,FRA,Direct,0,1,No Deposit,0,Transient,A,0,1,0
+16868,PRT,Groups,0,0,Non Refund,10,Transient,A,0,0,1
+5429,IRL,Online TA,0,0,No Deposit,0,Transient,A,1,3,0
+2678,PRT,Direct,0,0,No Deposit,0,Transient,D,1,0,0
+53444,NLD,Direct,0,1,No Deposit,0,Transient,H,1,0,0
+31983,SVN,Online TA,0,0,No Deposit,0,Transient,A,1,1,0
+20734,GBR,Online TA,0,1,No Deposit,0,Transient,H,0,0,0
+7525,PRT,Offline TA/TO,19,0,Non Refund,0,Transient,A,0,0,1
+38271,SRB,Corporate,0,1,No Deposit,0,Transient,A,0,0,0
+27601,DEU,Online TA,0,0,No Deposit,0,Transient,G,0,1,1
+26405,AUS,Direct,0,0,No Deposit,0,Transient,E,0,1,0
+54526,ROU,Direct,0,0,No Deposit,0,Transient,F,0,0,0
+2490,PRT,Corporate,0,1,No Deposit,0,Transient,D,1,1,0
+19969,PRT,Direct,0,3,No Deposit,0,Transient-Party,A,0,0,0
+13987,JPN,Online TA,0,0,No Deposit,0,Transient,E,0,3,0
+3218,PRT,Complementary,0,0,No Deposit,0,Transient,G,1,3,0
+52119,ROU,Online TA,0,0,No Deposit,0,Transient,D,0,2,1
+23692,RUS,Online TA,0,0,No Deposit,0,Transient-Party,D,0,2,0
+3966,PRT,Complementary,0,1,No Deposit,0,Transient,D,1,1,0
+59735,DNK,Online TA,0,0,No Deposit,0,Transient,G,0,1,0
+1397,FRA,Online TA,0,2,No Deposit,0,Transient,A,0,1,0
+64641,URY,Online TA,0,0,No Deposit,0,Transient,E,0,0,1
+677,CHN,Online TA,0,0,No Deposit,0,Transient,E,0,0,1
+22996,PRT,Online TA,0,0,No Deposit,0,Transient-Party,E,0,2,0
+18616,ESP,Offline TA/TO,0,1,No Deposit,207,Transient-Party,A,0,0,0
+14253,GBR,Online TA,0,1,No Deposit,0,Transient-Party,F,0,2,1
+32537,GBR,Online TA,0,0,No Deposit,0,Transient,E,1,2,0
+24828,GBR,Offline TA/TO,0,0,No Deposit,0,Contract,E,1,0,0
+11660,ESP,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+59133,PER,Online TA,0,0,No Deposit,0,Transient,D,0,1,0
+9402,AGO,Online TA,0,4,No Deposit,0,Transient,A,0,2,0
+6793,CHE,Online TA,0,0,No Deposit,0,Transient,F,0,2,0
+63475,ESP,Direct,0,1,No Deposit,0,Transient,C,0,1,0
+53196,USA,Direct,0,2,No Deposit,0,Transient,A,0,3,0
+4555,ARG,Online TA,0,0,No Deposit,0,Transient-Party,A,1,0,0
+76733,JPN,Online TA,0,1,No Deposit,0,Group,A,0,2,0
+40532,PRT,Direct,0,1,No Deposit,0,Transient,G,1,1,0
+1049,PRT,Groups,0,0,No Deposit,0,Transient-Party,A,0,2,0
+31551,HUN,Online TA,0,0,No Deposit,0,Transient,A,1,3,0
+40220,ESP,Direct,0,0,No Deposit,0,Transient,C,0,0,0
+16190,IRL,Offline TA/TO,0,0,No Deposit,0,Transient,D,0,2,0
+43279,FRA,Online TA,0,1,No Deposit,0,Contract,D,0,0,0
+22658,DEU,Online TA,0,0,No Deposit,0,Transient,D,1,2,0
+26571,FIN,Groups,0,1,No Deposit,0,Transient,A,0,0,0
+12641,EST,Online TA,0,0,No Deposit,0,Transient,D,0,0,0
+3347,PRT,Complementary,2,0,No Deposit,0,Transient,A,0,1,1
+205,PRT,Groups,1,0,Non Refund,0,Transient-Party,A,0,0,1
+30997,PRT,Groups,0,0,No Deposit,98,Transient-Party,A,0,0,1
+495,MAR,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+7318,FRA,Online TA,0,0,No Deposit,0,Transient-Party,A,0,1,1
+77131,SAU,Direct,0,3,No Deposit,0,Transient-Party,A,0,0,0
+81089,CHE,Online TA,0,0,No Deposit,0,Transient-Party,E,0,3,0
+50121,POL,Online TA,0,0,No Deposit,0,Transient,D,1,1,0
+12213,ITA,Online TA,0,1,No Deposit,0,Transient,E,0,3,0
+65277,POL,Offline TA/TO,0,1,No Deposit,0,Transient,A,0,2,0
+13659,FRA,Online TA,0,1,No Deposit,0,Transient,E,1,2,0
+82592,USA,Online TA,0,0,No Deposit,0,Transient,A,0,4,0
+17369,AUS,Online TA,0,0,No Deposit,0,Transient,A,0,2,1
+12653,PRT,Direct,0,4,No Deposit,0,Transient-Party,A,0,1,0
+23238,PRT,Direct,0,0,No Deposit,0,Transient-Party,B,0,1,0
+1082,POL,Online TA,0,0,No Deposit,0,Transient,D,0,2,0
+25026,FIN,Offline TA/TO,0,0,No Deposit,0,Transient,A,1,0,0
+6949,PRT,Groups,0,0,No Deposit,0,Transient,A,0,0,1
+73347,DNK,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+11714,ESP,Direct,0,2,No Deposit,0,Group,H,0,0,0
+25476,AUT,Online TA,0,2,No Deposit,0,Transient,A,0,2,0
+78899,LUX,Direct,0,1,No Deposit,0,Transient,F,0,0,0
+19185,LBY,Offline TA/TO,0,2,No Deposit,0,Transient-Party,A,0,0,0
+59213,AUT,Corporate,0,1,No Deposit,0,Transient,A,0,0,0
+30023,AGO,Direct,0,0,No Deposit,0,Transient,E,0,2,0
+9904,DEU,Online TA,0,2,No Deposit,0,Transient,D,0,0,1
+2886,AUT,Aviation,0,0,No Deposit,0,Transient,A,0,0,0
+15072,GBR,Online TA,0,0,No Deposit,0,Transient,A,1,0,0
+50489,NLD,Online TA,0,3,No Deposit,0,Transient,A,0,0,1
+80737,IRL,Online TA,0,0,No Deposit,0,Transient-Party,D,0,3,0
+39738,PRT,Offline TA/TO,0,0,Non Refund,59,Transient,A,0,0,1
+45929,PRT,Online TA,0,0,No Deposit,0,Transient-Party,E,0,3,1
+744,FRA,Groups,0,0,No Deposit,259,Transient-Party,A,0,0,0
+1183,PRT,Online TA,0,0,No Deposit,0,Transient,G,0,1,0
+17088,PRT,Online TA,0,1,No Deposit,0,Transient,D,1,1,0
+32200,NOR,Offline TA/TO,0,0,No Deposit,0,Transient-Party,E,0,2,0
+6838,DEU,Online TA,0,0,No Deposit,0,Contract,D,0,2,0
+1398,ITA,Online TA,0,1,No Deposit,0,Transient,A,0,3,0
+9,PRT,Groups,1,0,Non Refund,0,Contract,A,0,0,1
+35793,IRL,Direct,0,1,No Deposit,0,Transient,C,0,1,1
+6227,FRA,Direct,0,0,No Deposit,0,Transient,A,0,2,0
+65210,EST,Online TA,0,0,No Deposit,0,Transient,A,1,1,0
+8750,GBR,Direct,0,2,No Deposit,0,Transient-Party,A,0,1,0
+80220,THA,Online TA,0,0,No Deposit,0,Transient,B,0,0,0
+56191,GBR,Direct,0,1,No Deposit,0,Transient-Party,B,0,0,0
+789,PRT,Online TA,0,0,No Deposit,0,Transient-Party,A,2,1,0
+15672,CN,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,2,0
+20014,GBR,Groups,0,4,No Deposit,0,Transient,A,0,0,0
+6398,NLD,Offline TA/TO,0,2,No Deposit,0,Transient,D,0,0,0
+40843,DEU,Online TA,0,1,No Deposit,0,Transient-Party,A,0,0,1
+32538,ITA,Online TA,0,2,No Deposit,0,Transient,D,0,1,0
+29488,TUN,Direct,0,0,No Deposit,0,Transient,A,0,0,0
+10460,CHE,Online TA,0,1,No Deposit,0,Transient,A,0,3,0
+3799,PRT,Online TA,0,0,No Deposit,0,Transient,F,0,0,0
+57790,PRT,Groups,0,1,No Deposit,0,Transient-Party,G,0,0,1
+47162,FRA,Direct,0,2,No Deposit,0,Transient,F,0,1,0
+40712,PRT,Complementary,0,0,No Deposit,0,Transient,B,0,0,0
+40462,SRB,Online TA,0,0,No Deposit,0,Transient-Party,E,0,2,0
+2784,FRA,Online TA,0,0,No Deposit,0,Transient,A,1,0,0
+21987,AGO,Online TA,0,3,No Deposit,0,Transient,A,0,0,1
+832,FIN,Online TA,0,0,No Deposit,0,Transient-Party,D,1,2,0
+2752,ROU,Online TA,0,0,No Deposit,0,Transient,D,0,1,1
+59944,BRA,Online TA,0,0,No Deposit,0,Transient,G,0,0,1
+6192,USA,Online TA,0,0,No Deposit,0,Transient,D,0,3,1
+1924,USA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,1,0
+73322,CN,Online TA,0,0,No Deposit,0,Transient-Party,A,0,3,0
+5784,CHE,Online TA,0,1,No Deposit,0,Transient,D,0,0,1
+3100,AUT,Direct,0,0,No Deposit,0,Transient,D,0,1,0
+24408,ITA,Online TA,0,0,No Deposit,0,Transient-Party,G,0,1,0
+1626,DEU,Online TA,0,1,No Deposit,0,Transient,A,0,0,0
+1149,ITA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,A,0,0,1
+3869,NOR,Online TA,0,0,No Deposit,0,Transient,A,0,0,0
+70776,PRT,Online TA,0,0,No Deposit,0,Group,D,1,0,0
+5746,USA,Online TA,0,0,No Deposit,0,Transient,A,0,3,1
+6898,PRT,Direct,0,2,No Deposit,0,Transient,A,0,1,0
+18009,GBR,Corporate,0,0,No Deposit,0,Transient,E,0,0,0
+4896,DEU,Online TA,0,1,No Deposit,0,Transient,A,0,2,0
+10018,ECU,Online TA,0,0,No Deposit,0,Transient,A,0,3,0
+9955,IRL,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,0
+6867,AUS,Direct,0,1,No Deposit,0,Transient,E,0,0,0
+58,IRL,Online TA,0,1,No Deposit,0,Transient,A,0,1,1
+51212,BRA,Online TA,0,0,No Deposit,0,Transient-Party,A,0,0,1
+2903,DEU,Online TA,0,1,No Deposit,0,Transient,A,0,4,0
+5614,PRT,Direct,0,2,No Deposit,0,Transient,D,0,0,0
+719,POL,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+1269,SWE,Offline TA/TO,0,0,No Deposit,0,Transient,A,0,0,0
+76012,USA,Online TA,0,4,No Deposit,0,Transient,D,0,5,0
+53174,FRA,Offline TA/TO,0,0,No Deposit,0,Transient-Party,C,1,1,0
+314,BRA,Online TA,0,0,No Deposit,0,Transient,A,0,1,0
+9199,ESP,Direct,0,1,No Deposit,0,Transient,C,1,0,0
+1063,EST,Online TA,0,0,No Deposit,0,Transient,E,0,2,0
+53292,CHE,Online TA,0,0,No Deposit,0,Transient,G,1,1,0
+1794,PRT,Direct,0,2,No Deposit,0,Transient,F,1,0,0
+683,BRA,Direct,0,0,No Deposit,0,Transient,A,0,0,1
+16976,CHE,Online TA,0,1,No Deposit,0,Transient,B,0,0,0
+8064,PRT,Corporate,0,0,No Deposit,15,Transient-Party,A,0,0,1
+244,USA,Online TA,0,0,No Deposit,0,Transient,A,0,0,1
+5013,MOZ,Offline TA/TO,0,1,No Deposit,0,Transient-Party,A,0,0,0
+2461,ITA,Online TA,0,0,No Deposit,0,Transient,F,0,0,1
+10468,PRT,Groups,0,0,No Deposit,174,Transient-Party,A,0,0,1
+35733,CHE,Online TA,0,1,No Deposit,0,Transient,A,0,0,1
+17496,GBR,Direct,0,1,No Deposit,0,Transient,A,1,1,0
+12722,POL,Corporate,0,3,No Deposit,0,Transient-Party,E,0,0,0

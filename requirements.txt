@@ -1,0 +1,25 @@
+# Core Libraries
+pandas=2.2.3
+numpy=2.0.2
+
+# Visualization
+seaborn=0.13.2
+matplotlib=3.9.2
+
+# Scikit-learn and Related Utilities
+scikit-learn=1.5.2
+category_encoders=2.6.4
+
+# Models
+xgboost=2.1.3
+lightgbm=4.5.0
+
+# Imbalanced Dataset Handling
+imbalanced-learn=0.12.4
+
+# Statistical Testing
+scipy=1.14.1
+
+# Others
+shap=0.46.0
+pickle  # No installation needed; built-in Python library
