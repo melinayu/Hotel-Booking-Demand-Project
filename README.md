@@ -9,7 +9,7 @@ Key Objectives:
 - Objective 3: Enhance Customer Experience -> Improve customer loyalty and satisfaction by identifying high-risk cancellation segments and offering flexible policies tailored to those customers.
 
 ## 2. Data Sources
-- [Dataset 1]([link](https://drive.google.com/file/d/1WzkqwptNsC285arNV7X4x7E5QcA7UX3W/view?usp=sharing)) - Hotel Booking Demand Data
+- [[Dataset 1](https://drive.google.com/file/d/1WzkqwptNsC285arNV7X4x7E5QcA7UX3W/view?usp=sharing)] - Hotel Booking Demand Data
 
 ## 3. Technologies Used
 - Programming Language: Python (Pandas, NumPy, Scikit-learn)
